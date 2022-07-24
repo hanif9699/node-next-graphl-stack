@@ -6,10 +6,10 @@ import { Arg, Ctx, Int, Mutation, Query, Resolver } from "type-graphql";
 export class PostResolver {
 
     @Query(() => [Post])
-    posts(
+    async posts(
         @Ctx() { connection }: MyContext
     ): Promise<Post[]> {
-        return connection.manager.find(Post, {})
+        return await connection.manager.find(Post, {})
     }
     @Query(() => Post, { nullable: true })
     post(

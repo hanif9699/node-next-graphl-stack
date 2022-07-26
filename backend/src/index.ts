@@ -27,6 +27,7 @@ let RedisStore = connectRedis(session)
 // redis@v4
 import { createClient } from "redis";
 import morganMiddleware from "./middleware/morganMiddleware";
+import logger from "./utils/logger";
 
 
 const main = () => {
@@ -37,7 +38,7 @@ const main = () => {
         const app = express()
         let redisClient = createClient({ legacyMode: true })
         redisClient.connect().then(() => {
-            console.log('Connected to redis')
+            logger.debug('Connected to redis')
         }).catch(console.error)
         app.use(cors({
             origin: true,
@@ -85,12 +86,12 @@ const main = () => {
             cert: fs.readFileSync(path.join(__dirname, '../cert', 'cert.pem'))
         }, app)
         sslServer.listen(PORT, () => {
-            console.log(`Server Started at Port ${PORT}`)
+            logger.debug(`Server Started at Port ${PORT}`)
         })
 
         const httpServer = http.createServer(app)
         httpServer.listen(7000, () => {
-            console.log('Server running on 7000 port')
+            logger.debug('Server running on 7000 port')
         })
 
     }).catch(error => {

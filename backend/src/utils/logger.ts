@@ -21,7 +21,7 @@ const logger = winston.createLogger({
     transports: [
         new winston.transports.Console({
             format: format.combine(format.colorize(), format.simple()),
-            level: 'info'
+            level: 'debug'
         }),
         new winston.transports.DailyRotateFile({
             format: format.combine(format.timestamp(), format.json()),

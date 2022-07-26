@@ -15,25 +15,26 @@ import https from 'https';
 import path from 'path';
 import fs from 'fs';
 import http from 'http'
+
+declare global {
+    var __basedir:string;
+}
+
+global.__basedir = __dirname;
+
 let RedisStore = connectRedis(session)
 
 // redis@v4
 import { createClient } from "redis";
+import morganMiddleware from "./middleware/morganMiddleware";
 
 
 const main = () => {
     AppDataSource.initialize().then(async () => {
         console.log('--- Insert post into db ---')
-        // const post = new Post()
-        // post.title = 'First Post !!!'
-        // await AppDataSource.manager.save(post)
-        // console.log(`Saved Post Id : ${post.id}`)
         const posts = await AppDataSource.manager.find(Post)
         console.log(posts)
         const app = express()
-        // app.get('/', (_, res) => {
-        //     res.send('Hello world')
-        // })
         let redisClient = createClient({ legacyMode: true })
         redisClient.connect().then(() => {
             console.log('Connected to redis')
@@ -42,6 +43,7 @@ const main = () => {
             origin: true,
             credentials: true,
         }))
+        app.use(morganMiddleware)
         app.use(
             session({
                 name: cookie_name,
@@ -87,8 +89,8 @@ const main = () => {
         })
 
         const httpServer = http.createServer(app)
-        httpServer.listen(8081, () => {
-            console.log('Server running on 8081 port')
+        httpServer.listen(7000, () => {
+            console.log('Server running on 7000 port')
         })
 
     }).catch(error => {

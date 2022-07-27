@@ -1,0 +1,22 @@
+{"level":"debug","message":{"imap":{"host":"imap.ethereal.email","port":993,"secure":true},"pass":"NuSreCe3qdJEdVUEkY","pop3":{"host":"pop3.ethereal.email","port":995,"secure":true},"smtp":{"host":"smtp.ethereal.email","port":587,"secure":false},"user":"blk2h72npmgbb7ys@ethereal.email","web":"https://ethereal.email"},"timestamp":"2022-07-27T14:43:35.683Z"}
+{"level":"debug","message":"Message sent: %s","timestamp":"2022-07-27T14:43:37.496Z"}
+{"level":"debug","message":"Preview URL: %s","timestamp":"2022-07-27T14:43:37.498Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-27T14:43:37.500Z"}
+{"level":"debug","message":[],"timestamp":"2022-07-27T14:43:37.515Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-27T14:43:37.663Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-27T14:43:37.665Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-27T14:43:37.669Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":381,"messageId":"<f93fb267-3e33-e8b9-95ce-7509d0ef9cb9@example.com>","messageSize":328,"messageTime":319,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuFPyGTcOrtHgCK-AAAAAmSKycQe602m57Ol247J-S8]"},"timestamp":"2022-07-27T14:46:31.998Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-27T14:46:32.001Z"}
+{"level":"debug","message":[],"timestamp":"2022-07-27T14:46:32.020Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-27T14:46:32.153Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-27T14:46:32.155Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-27T14:46:32.165Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":387,"messageId":"<90071808-0708-af82-8b29-d1e3374f90fd@example.com>","messageSize":328,"messageTime":334,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuFTc2TcOrtHgCNcAAAAA4ONjJMk09KPOM2RfG8IpcQ]"},"timestamp":"2022-07-27T15:02:11.591Z"}
+{"level":"debug","message":"<90071808-0708-af82-8b29-d1e3374f90fd@example.com>","timestamp":"2022-07-27T15:02:11.593Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuFTc2TcOrtHgCNcAAAAA4ONjJMk09KPOM2RfG8IpcQ","timestamp":"2022-07-27T15:02:11.595Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-27T15:02:11.596Z"}
+{"level":"debug","message":[],"timestamp":"2022-07-27T15:02:11.612Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-27T15:02:11.777Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-27T15:02:11.785Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-27T15:02:11.797Z"}

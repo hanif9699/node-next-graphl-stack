@@ -17,7 +17,7 @@ import fs from 'fs';
 import http from 'http'
 
 declare global {
-    var __basedir:string;
+    var __basedir: string;
 }
 
 global.__basedir = __dirname;
@@ -28,13 +28,15 @@ let RedisStore = connectRedis(session)
 import { createClient } from "redis";
 import morganMiddleware from "./middleware/morganMiddleware";
 import logger from "./utils/logger";
+import { sendEmail } from "./utils/sendEmail";
 // fshkfjhj fjkdhsj
 
 const main = () => {
     AppDataSource.initialize().then(async () => {
-        console.log('--- Insert post into db ---')
+        await sendEmail('hanifbadsha309@gmail.com', 'Hi there !!')
+        logger.debug('--- Insert post into db ---')
         const posts = await AppDataSource.manager.find(Post)
-        console.log(posts)
+        logger.debug(posts)
         const app = express()
         let redisClient = createClient({ legacyMode: true })
         redisClient.connect().then(() => {
@@ -95,7 +97,7 @@ const main = () => {
         })
 
     }).catch(error => {
-        console.log(error)
+        logger.error(error)
     })
 }
 

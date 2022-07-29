@@ -1,4 +1,4 @@
-mutation Login($options: UserInput!) {
+mutation Login($options: LoginInput!) {
   login(options: $options) {
     user {
       ...RegularUser

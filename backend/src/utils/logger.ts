@@ -10,8 +10,8 @@ const LOG_DIR = process.env.LOG_DIR || 'logs';
 const LOG_LEVEL = process.env.LOG_LEVEL || 'debug';
 
 // Create log directory if it does not exist
-if (!fs.existsSync(path.join(__basedir,'', LOG_DIR))) {
-    fs.mkdirSync(path.join(__basedir, LOG_DIR));
+if (!fs.existsSync(path.join(global.__basedir,'', LOG_DIR))) {
+    fs.mkdirSync(path.join(global.__basedir, LOG_DIR));
 }
 
 /**

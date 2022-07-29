@@ -1,10 +1,9 @@
-import { Field, Int, ObjectType } from "type-graphql";
-import { Entity, PrimaryGeneratedColumn, Column, CreateDateColumn, UpdateDateColumn } from "typeorm"
+import { Field, Int, ObjectType } from 'type-graphql';
+import { Entity, PrimaryGeneratedColumn, Column, CreateDateColumn, UpdateDateColumn } from 'typeorm';
 
 @ObjectType()
 @Entity()
 export class User {
-
     @Field(() => Int)
     @PrimaryGeneratedColumn()
     id: number;
@@ -22,7 +21,10 @@ export class User {
     username: string;
 
     @Field()
-    @Column()
-    password: string
+    @Column({ unique: true })
+    email: string;
 
+    @Field()
+    @Column()
+    password: string;
 }

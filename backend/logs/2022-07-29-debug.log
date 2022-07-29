@@ -1,0 +1,1169 @@
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":407,"messageId":"<c046a378-ba61-fb98-9915-b3c0d13572b0@example.com>","messageSize":328,"messageTime":350,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuPGymTcOrtHgIjfAAAABHLuHCqYpjwNweAt6WWf1rQ]"},"timestamp":"2022-07-29T11:38:51.342Z"}
+{"level":"debug","message":"<c046a378-ba61-fb98-9915-b3c0d13572b0@example.com>","timestamp":"2022-07-29T11:38:51.344Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuPGymTcOrtHgIjfAAAABHLuHCqYpjwNweAt6WWf1rQ","timestamp":"2022-07-29T11:38:51.346Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T11:38:51.348Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T11:38:51.374Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T11:38:51.581Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T11:38:51.583Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T11:38:51.598Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":384,"messageId":"<d22d0e62-e0ee-aff8-b38f-1283722a6b8f@example.com>","messageSize":328,"messageTime":323,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuPG-bVBtGLshsc5AAAABXWqilUSxEPwQ-lOMtkCdTM]"},"timestamp":"2022-07-29T11:39:38.456Z"}
+{"level":"debug","message":"<d22d0e62-e0ee-aff8-b38f-1283722a6b8f@example.com>","timestamp":"2022-07-29T11:39:38.459Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuPG-bVBtGLshsc5AAAABXWqilUSxEPwQ-lOMtkCdTM","timestamp":"2022-07-29T11:39:38.461Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T11:39:38.462Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T11:39:38.484Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T11:39:38.691Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T11:39:38.693Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T11:39:38.700Z"}
+{"code":"23502","column":"email","driverError":{"code":"23502","column":"email","file":"tablecmds.c","length":138,"line":"5874","name":"error","routine":"ATRewriteTable","schema":"public","severity":"ERROR","table":"user"},"file":"tablecmds.c","length":138,"level":"error","line":"5874","query":"ALTER TABLE \"user\" ADD \"email\" character varying NOT NULL","routine":"ATRewriteTable","schema":"public","severity":"ERROR","table":"user","timestamp":"2022-07-29T11:42:54.980Z"}
+{"code":"23502","column":"email","driverError":{"code":"23502","column":"email","file":"tablecmds.c","length":138,"line":"5874","name":"error","routine":"ATRewriteTable","schema":"public","severity":"ERROR","table":"user"},"file":"tablecmds.c","length":138,"level":"error","line":"5874","query":"ALTER TABLE \"user\" ADD \"email\" character varying NOT NULL","routine":"ATRewriteTable","schema":"public","severity":"ERROR","table":"user","timestamp":"2022-07-29T11:43:54.992Z"}
+{"code":"23502","column":"email","driverError":{"code":"23502","column":"email","file":"tablecmds.c","length":138,"line":"5874","name":"error","routine":"ATRewriteTable","schema":"public","severity":"ERROR","table":"user"},"file":"tablecmds.c","length":138,"level":"error","line":"5874","query":"ALTER TABLE \"user\" ADD \"email\" character varying NOT NULL","routine":"ATRewriteTable","schema":"public","severity":"ERROR","table":"user","timestamp":"2022-07-29T11:44:20.878Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":407,"messageId":"<c8e9f8bf-4f43-2ed3-1713-08a31e45c7af@example.com>","messageSize":328,"messageTime":339,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuPIhkR08nemMAxrAAAABu3WcKwICEi3uId54zvlTYY]"},"timestamp":"2022-07-29T11:46:14.986Z"}
+{"level":"debug","message":"<c8e9f8bf-4f43-2ed3-1713-08a31e45c7af@example.com>","timestamp":"2022-07-29T11:46:14.989Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuPIhkR08nemMAxrAAAABu3WcKwICEi3uId54zvlTYY","timestamp":"2022-07-29T11:46:14.991Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T11:46:14.993Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T11:46:15.016Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T11:46:15.332Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T11:46:15.334Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T11:46:15.353Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":412,"messageId":"<c261d9bb-b0bc-b05d-a050-eda099135cdc@example.com>","messageSize":328,"messageTime":353,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuPLO0R08nemMAy0AAAABzuRaMqLAMF9QM13x9W5g2s]"},"timestamp":"2022-07-29T11:57:48.267Z"}
+{"level":"debug","message":"<c261d9bb-b0bc-b05d-a050-eda099135cdc@example.com>","timestamp":"2022-07-29T11:57:48.270Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuPLO0R08nemMAy0AAAABzuRaMqLAMF9QM13x9W5g2s","timestamp":"2022-07-29T11:57:48.272Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T11:57:48.273Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T11:57:48.290Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T11:57:48.424Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T11:57:48.426Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T11:57:48.436Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":401,"messageId":"<c2ed6d0a-a470-d2b6-b453-1048e3616e21@example.com>","messageSize":328,"messageTime":332,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuPQIMVsBJHciKN2AAAACL-uymgtptrOGF7oGjHTsVc]"},"timestamp":"2022-07-29T12:18:41.343Z"}
+{"level":"debug","message":"<c2ed6d0a-a470-d2b6-b453-1048e3616e21@example.com>","timestamp":"2022-07-29T12:18:41.345Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuPQIMVsBJHciKN2AAAACL-uymgtptrOGF7oGjHTsVc","timestamp":"2022-07-29T12:18:41.347Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T12:18:41.349Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T12:18:41.367Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T12:18:41.563Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T12:18:41.564Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T12:18:41.569Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":388,"messageId":"<5be8ac46-17a2-cf57-7b4b-db11fd12e1e8@example.com>","messageSize":328,"messageTime":331,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuPQtWTcOrtHgItLAAAACV12.M5cGUrJ04p4lJHjd60]"},"timestamp":"2022-07-29T12:21:09.990Z"}
+{"level":"debug","message":"<5be8ac46-17a2-cf57-7b4b-db11fd12e1e8@example.com>","timestamp":"2022-07-29T12:21:09.993Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuPQtWTcOrtHgItLAAAACV12.M5cGUrJ04p4lJHjd60","timestamp":"2022-07-29T12:21:09.995Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T12:21:09.996Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T12:21:10.016Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T12:21:10.248Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T12:21:10.250Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T12:21:10.264Z"}
+{"level":"info","message":"GET / 404 139 - 11.938 ms\n-\n","timestamp":"2022-07-29T12:29:24.424Z"}
+{"level":"info","message":"GET /graphql 200 - - 4.947 ms\n-\n","timestamp":"2022-07-29T12:29:34.056Z"}
+{"level":"info","message":"POST /graphql 200 24297 - 111.909 ms\n-\n","timestamp":"2022-07-29T12:29:42.221Z"}
+{"level":"info","message":"POST /graphql 200 24297 - 29.806 ms\n-\n","timestamp":"2022-07-29T12:29:42.993Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 37.486 ms\n-\n","timestamp":"2022-07-29T12:29:43.237Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 17.902 ms\n-\n","timestamp":"2022-07-29T12:29:44.282Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 17.871 ms\n-\n","timestamp":"2022-07-29T12:29:45.235Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 13.242 ms\n-\n","timestamp":"2022-07-29T12:29:46.223Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 13.086 ms\n-\n","timestamp":"2022-07-29T12:29:47.229Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 7.453 ms\n-\n","timestamp":"2022-07-29T12:29:48.215Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 9.415 ms\n-\n","timestamp":"2022-07-29T12:29:49.217Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 7.692 ms\n-\n","timestamp":"2022-07-29T12:29:50.217Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 7.366 ms\n-\n","timestamp":"2022-07-29T12:29:51.218Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 14.272 ms\n-\n","timestamp":"2022-07-29T12:29:52.223Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 15.680 ms\n-\n","timestamp":"2022-07-29T12:29:53.228Z"}
+{"level":"info","message":"POST /graphql 200 24297 - 9.375 ms\n-\n","timestamp":"2022-07-29T12:29:57.125Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 9.439 ms\n-\n","timestamp":"2022-07-29T12:29:57.378Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 10.433 ms\n-\n","timestamp":"2022-07-29T12:29:58.671Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 13.375 ms\n-\n","timestamp":"2022-07-29T12:29:59.384Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 14.793 ms\n-\n","timestamp":"2022-07-29T12:30:00.393Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 11.218 ms\n-\n","timestamp":"2022-07-29T12:30:01.381Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 6.205 ms\n-\n","timestamp":"2022-07-29T12:30:02.383Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 12.433 ms\n-\n","timestamp":"2022-07-29T12:30:03.382Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 5.436 ms\n-\n","timestamp":"2022-07-29T12:30:04.386Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 11.058 ms\n-\n","timestamp":"2022-07-29T12:30:05.386Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 5.953 ms\n-\n","timestamp":"2022-07-29T12:30:06.375Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 5.736 ms\n-\n","timestamp":"2022-07-29T12:30:07.375Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 7.917 ms\n-\n","timestamp":"2022-07-29T12:30:08.384Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 7.242 ms\n-\n","timestamp":"2022-07-29T12:30:09.380Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 8.861 ms\n-\n","timestamp":"2022-07-29T12:30:10.381Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 5.322 ms\n-\n","timestamp":"2022-07-29T12:30:11.374Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 7.255 ms\n-\n","timestamp":"2022-07-29T12:30:12.494Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 4.901 ms\n-\n","timestamp":"2022-07-29T12:30:13.376Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 4.718 ms\n-\n","timestamp":"2022-07-29T12:30:14.375Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 8.729 ms\n-\n","timestamp":"2022-07-29T12:30:15.384Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 5.367 ms\n-\n","timestamp":"2022-07-29T12:30:16.377Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 6.603 ms\n-\n","timestamp":"2022-07-29T12:30:17.378Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 5.680 ms\n-\n","timestamp":"2022-07-29T12:30:18.383Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 6.150 ms\n-\n","timestamp":"2022-07-29T12:30:19.376Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 5.088 ms\n-\n","timestamp":"2022-07-29T12:30:20.375Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 5.154 ms\n-\n","timestamp":"2022-07-29T12:30:21.375Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 4.667 ms\n-\n","timestamp":"2022-07-29T12:30:22.388Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 4.767 ms\n-\n","timestamp":"2022-07-29T12:30:23.378Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 13.554 ms\n-\n","timestamp":"2022-07-29T12:30:24.408Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 4.883 ms\n-\n","timestamp":"2022-07-29T12:30:25.374Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 8.584 ms\n-\n","timestamp":"2022-07-29T12:30:26.378Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 5.401 ms\n-\n","timestamp":"2022-07-29T12:30:27.378Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 10.346 ms\n-\n","timestamp":"2022-07-29T12:30:28.382Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 8.246 ms\n-\n","timestamp":"2022-07-29T12:30:29.391Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 5.051 ms\n-\n","timestamp":"2022-07-29T12:30:30.387Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 5.604 ms\n-\n","timestamp":"2022-07-29T12:30:31.379Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 10.837 ms\n-\n","timestamp":"2022-07-29T12:30:32.385Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 5.664 ms\n-\n","timestamp":"2022-07-29T12:30:33.387Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 5.234 ms\n-\n","timestamp":"2022-07-29T12:30:34.374Z"}
+{"level":"info","message":"POST /graphql 200 25125 - 4.764 ms\n-\n","timestamp":"2022-07-29T12:30:35.374Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":397,"messageId":"<d037adec-9ad3-f0ed-6db5-9e41699fb708@example.com>","messageSize":328,"messageTime":416,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuPTUGTcOrtHgIuKAAAACuLZiy-tLspRyuXnNuBpwSY]"},"timestamp":"2022-07-29T12:32:17.058Z"}
+{"level":"debug","message":"<d037adec-9ad3-f0ed-6db5-9e41699fb708@example.com>","timestamp":"2022-07-29T12:32:17.060Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuPTUGTcOrtHgIuKAAAACuLZiy-tLspRyuXnNuBpwSY","timestamp":"2022-07-29T12:32:17.063Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T12:32:17.065Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T12:32:17.089Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T12:32:17.316Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T12:32:17.317Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T12:32:17.329Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 62.212 ms\n-\n","timestamp":"2022-07-29T12:32:25.179Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 19.176 ms\n-\n","timestamp":"2022-07-29T12:32:26.117Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 11.841 ms\n-\n","timestamp":"2022-07-29T12:32:27.108Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.001 ms\n-\n","timestamp":"2022-07-29T12:32:28.113Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.503 ms\n-\n","timestamp":"2022-07-29T12:32:29.101Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.345 ms\n-\n","timestamp":"2022-07-29T12:32:30.099Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.669 ms\n-\n","timestamp":"2022-07-29T12:32:31.108Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.389 ms\n-\n","timestamp":"2022-07-29T12:32:32.102Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.045 ms\n-\n","timestamp":"2022-07-29T12:32:33.111Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.617 ms\n-\n","timestamp":"2022-07-29T12:32:34.103Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.404 ms\n-\n","timestamp":"2022-07-29T12:32:35.131Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.260 ms\n-\n","timestamp":"2022-07-29T12:32:36.100Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.069 ms\n-\n","timestamp":"2022-07-29T12:32:37.101Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 10.739 ms\n-\n","timestamp":"2022-07-29T12:32:38.117Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 12.176 ms\n-\n","timestamp":"2022-07-29T12:32:39.112Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 12.733 ms\n-\n","timestamp":"2022-07-29T12:32:40.108Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.710 ms\n-\n","timestamp":"2022-07-29T12:32:41.107Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.425 ms\n-\n","timestamp":"2022-07-29T12:32:42.114Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.175 ms\n-\n","timestamp":"2022-07-29T12:32:43.105Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.783 ms\n-\n","timestamp":"2022-07-29T12:32:44.097Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.974 ms\n-\n","timestamp":"2022-07-29T12:32:45.100Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.500 ms\n-\n","timestamp":"2022-07-29T12:32:46.098Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.198 ms\n-\n","timestamp":"2022-07-29T12:32:47.102Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.846 ms\n-\n","timestamp":"2022-07-29T12:32:48.107Z"}
+{"_original":{"email":"","password":"","username":""},"details":[{"context":{"key":"username","label":"username","value":""},"message":"\"username\" is not allowed to be empty","path":["username"],"type":"string.empty"}],"level":"debug","timestamp":"2022-07-29T12:32:48.502Z"}
+{"level":"debug","message":{"email":"","password":"","username":""},"timestamp":"2022-07-29T12:32:48.503Z"}
+{"level":"info","message":"POST /graphql 200 2345 - 321.443 ms\n-\n","timestamp":"2022-07-29T12:32:48.800Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 13.121 ms\n-\n","timestamp":"2022-07-29T12:32:49.114Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 18.555 ms\n-\n","timestamp":"2022-07-29T12:32:50.113Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.891 ms\n-\n","timestamp":"2022-07-29T12:32:51.109Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.353 ms\n-\n","timestamp":"2022-07-29T12:32:52.107Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 10.555 ms\n-\n","timestamp":"2022-07-29T12:32:53.124Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":410,"messageId":"<2da7b311-324f-1f03-aef0-7f206fadfe1f@example.com>","messageSize":328,"messageTime":350,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuPUCbVBtGLshsnfAAAACz7jyYtNbvtPYUA2nAZxf9s]"},"timestamp":"2022-07-29T12:35:21.833Z"}
+{"level":"debug","message":"<2da7b311-324f-1f03-aef0-7f206fadfe1f@example.com>","timestamp":"2022-07-29T12:35:21.836Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuPUCbVBtGLshsnfAAAACz7jyYtNbvtPYUA2nAZxf9s","timestamp":"2022-07-29T12:35:21.838Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T12:35:21.839Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T12:35:21.862Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T12:35:22.047Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T12:35:22.048Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T12:35:22.060Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 61.355 ms\n-\n","timestamp":"2022-07-29T12:37:26.197Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":442,"messageId":"<2bda3dba-c691-c336-fc1f-d1ff143ca7f2@example.com>","messageSize":328,"messageTime":344,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuPY52TcOrtHgIx.AAAADKxVUP9l7.Vtn.eaQGja..I]"},"timestamp":"2022-07-29T12:56:07.796Z"}
+{"level":"debug","message":"<2bda3dba-c691-c336-fc1f-d1ff143ca7f2@example.com>","timestamp":"2022-07-29T12:56:07.799Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuPY52TcOrtHgIx.AAAADKxVUP9l7.Vtn.eaQGja..I","timestamp":"2022-07-29T12:56:07.801Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T12:56:07.803Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T12:56:07.825Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T12:56:08.098Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T12:56:08.100Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T12:56:08.129Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":404,"messageId":"<689ca5bc-4c9e-d829-ba65-e6f3eb5e060a@example.com>","messageSize":328,"messageTime":345,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuPc.rVBtGLshss9AAAADYJnqpb.8anGWh44Dkbq-b8]"},"timestamp":"2022-07-29T13:13:34.922Z"}
+{"level":"debug","message":"<689ca5bc-4c9e-d829-ba65-e6f3eb5e060a@example.com>","timestamp":"2022-07-29T13:13:34.925Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuPc.rVBtGLshss9AAAADYJnqpb.8anGWh44Dkbq-b8","timestamp":"2022-07-29T13:13:34.927Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T13:13:34.928Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T13:13:34.953Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T13:13:35.132Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T13:13:35.134Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T13:13:35.148Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 78.922 ms\n-\n","timestamp":"2022-07-29T13:27:13.570Z"}
+{"_original":{"email":"","password":"","username":""},"details":[{"context":{"key":"username","label":"username","value":""},"message":"\"username\" is not allowed to be empty","path":["username"],"type":"string.empty"}],"level":"debug","timestamp":"2022-07-29T13:27:14.573Z"}
+{"level":"debug","message":{"email":"","password":"","username":""},"timestamp":"2022-07-29T13:27:14.574Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 31.630 ms\n-\n","timestamp":"2022-07-29T13:27:14.629Z"}
+{"level":"info","message":"POST /graphql 200 2345 - 410.812 ms\n-\n","timestamp":"2022-07-29T13:27:14.890Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.709 ms\n-\n","timestamp":"2022-07-29T13:27:15.451Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 10.670 ms\n-\n","timestamp":"2022-07-29T13:27:16.466Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 10.382 ms\n-\n","timestamp":"2022-07-29T13:27:17.454Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.555 ms\n-\n","timestamp":"2022-07-29T13:27:18.449Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.862 ms\n-\n","timestamp":"2022-07-29T13:27:19.458Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.204 ms\n-\n","timestamp":"2022-07-29T13:27:20.446Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.255 ms\n-\n","timestamp":"2022-07-29T13:27:21.449Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.785 ms\n-\n","timestamp":"2022-07-29T13:27:22.458Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.710 ms\n-\n","timestamp":"2022-07-29T13:27:23.456Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.415 ms\n-\n","timestamp":"2022-07-29T13:27:24.453Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 14.748 ms\n-\n","timestamp":"2022-07-29T13:27:25.469Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 9.198 ms\n-\n","timestamp":"2022-07-29T13:27:26.450Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.357 ms\n-\n","timestamp":"2022-07-29T13:27:27.447Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.623 ms\n-\n","timestamp":"2022-07-29T13:27:28.448Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.496 ms\n-\n","timestamp":"2022-07-29T13:27:29.450Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.119 ms\n-\n","timestamp":"2022-07-29T13:27:30.449Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.934 ms\n-\n","timestamp":"2022-07-29T13:27:31.451Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.374 ms\n-\n","timestamp":"2022-07-29T13:27:32.447Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 9.354 ms\n-\n","timestamp":"2022-07-29T13:27:33.498Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":405,"messageId":"<c5ec06e0-1c92-4e11-7a61-27e0c6f7c54a@example.com>","messageSize":328,"messageTime":328,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuPgn0R08nemMBECAAAADtKyrDNxvFXyqPKplSx6CAg]"},"timestamp":"2022-07-29T13:29:03.544Z"}
+{"level":"debug","message":"<c5ec06e0-1c92-4e11-7a61-27e0c6f7c54a@example.com>","timestamp":"2022-07-29T13:29:03.547Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuPgn0R08nemMBECAAAADtKyrDNxvFXyqPKplSx6CAg","timestamp":"2022-07-29T13:29:03.550Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T13:29:03.551Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T13:29:03.591Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T13:29:04.000Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T13:29:04.016Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T13:29:04.036Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 84.282 ms\n-\n","timestamp":"2022-07-29T13:29:05.636Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 21.053 ms\n-\n","timestamp":"2022-07-29T13:29:06.508Z"}
+{"_original":{"email":"","password":"","username":""},"details":[{"context":{"key":"username","label":"username","value":""},"message":"\"Username\" shouldnt be empty","path":["username"],"type":"string.empty"}],"level":"debug","timestamp":"2022-07-29T13:29:07.290Z"}
+{"level":"debug","message":{"email":"","password":"","username":""},"timestamp":"2022-07-29T13:29:07.300Z"}
+{"level":"info","message":"POST /graphql 200 2345 - 334.347 ms\n-\n","timestamp":"2022-07-29T13:29:07.524Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 15.450 ms\n-\n","timestamp":"2022-07-29T13:29:07.549Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 14.122 ms\n-\n","timestamp":"2022-07-29T13:29:08.509Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.976 ms\n-\n","timestamp":"2022-07-29T13:29:09.493Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":399,"messageId":"<bc80808b-7dfe-c3a5-bf27-404619a23fb2@example.com>","messageSize":328,"messageTime":338,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuPofrVBtGLshsz5AAAAD9LWWjPEeLiTvF-93SCsumI]"},"timestamp":"2022-07-29T14:02:39.147Z"}
+{"level":"debug","message":"<bc80808b-7dfe-c3a5-bf27-404619a23fb2@example.com>","timestamp":"2022-07-29T14:02:39.149Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuPofrVBtGLshsz5AAAAD9LWWjPEeLiTvF-93SCsumI","timestamp":"2022-07-29T14:02:39.152Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T14:02:39.154Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T14:02:39.174Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T14:02:39.388Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T14:02:39.390Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T14:02:39.399Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 67.291 ms\n-\n","timestamp":"2022-07-29T14:03:19.155Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 23.094 ms\n-\n","timestamp":"2022-07-29T14:03:20.076Z"}
+{"_original":{"email":"","password":"","username":""},"details":[{"context":{"key":"username","label":"username","value":""},"message":"\"Username\" shouldnt be empty","path":["username"],"type":"string.empty"}],"level":"debug","timestamp":"2022-07-29T14:03:20.348Z"}
+{"level":"debug","message":{"email":"","password":"","username":""},"timestamp":"2022-07-29T14:03:20.350Z"}
+{"level":"info","message":"POST /graphql 200 68 - 90.738 ms\n-\n","timestamp":"2022-07-29T14:03:20.357Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 9.888 ms\n-\n","timestamp":"2022-07-29T14:03:21.069Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 10.070 ms\n-\n","timestamp":"2022-07-29T14:03:22.067Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.877 ms\n-\n","timestamp":"2022-07-29T14:03:23.060Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 12.905 ms\n-\n","timestamp":"2022-07-29T14:03:24.064Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 12.333 ms\n-\n","timestamp":"2022-07-29T14:03:25.067Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.459 ms\n-\n","timestamp":"2022-07-29T14:03:26.068Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.064 ms\n-\n","timestamp":"2022-07-29T14:03:27.064Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.771 ms\n-\n","timestamp":"2022-07-29T14:03:28.060Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.122 ms\n-\n","timestamp":"2022-07-29T14:03:29.058Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":404,"messageId":"<484e545f-c275-df94-6b22-2488ffc95626@example.com>","messageSize":328,"messageTime":340,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuPo5sVsBJHciKdiAAAAEKPn2la7eb3J8yBYEsbnMDc]"},"timestamp":"2022-07-29T14:04:23.056Z"}
+{"level":"debug","message":"<484e545f-c275-df94-6b22-2488ffc95626@example.com>","timestamp":"2022-07-29T14:04:23.058Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuPo5sVsBJHciKdiAAAAEKPn2la7eb3J8yBYEsbnMDc","timestamp":"2022-07-29T14:04:23.060Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T14:04:23.061Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T14:04:23.087Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T14:04:23.249Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T14:04:23.251Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T14:04:23.257Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 47.509 ms\n-\n","timestamp":"2022-07-29T14:04:27.818Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 14.573 ms\n-\n","timestamp":"2022-07-29T14:04:28.760Z"}
+{"_original":{"email":"","password":"","username":""},"details":[{"context":{"key":"username","label":"username","value":""},"message":"\"Username\" shouldnt be empty","path":["username"],"type":"string.empty"}],"level":"debug","timestamp":"2022-07-29T14:04:29.228Z"}
+{"level":"debug","message":{"email":"","password":"","username":""},"timestamp":"2022-07-29T14:04:29.230Z"}
+{"level":"debug","message":"\"Username\" shouldnt be empty","timestamp":"2022-07-29T14:04:29.236Z"}
+{"level":"info","message":"POST /graphql 200 68 - 113.664 ms\n-\n","timestamp":"2022-07-29T14:04:29.257Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 9.117 ms\n-\n","timestamp":"2022-07-29T14:04:29.753Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.473 ms\n-\n","timestamp":"2022-07-29T14:04:30.764Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.537 ms\n-\n","timestamp":"2022-07-29T14:04:31.752Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 9.362 ms\n-\n","timestamp":"2022-07-29T14:04:40.820Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 16.062 ms\n-\n","timestamp":"2022-07-29T14:04:41.814Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.530 ms\n-\n","timestamp":"2022-07-29T14:04:42.812Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":392,"messageId":"<2a95224b-784b-d9df-4738-136756d19d80@example.com>","messageSize":328,"messageTime":334,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuPpNbVBtGLshs0aAAAAEcJ6DaJVHUaUTFwmr.ZT0Cw]"},"timestamp":"2022-07-29T14:05:41.822Z"}
+{"level":"debug","message":"<2a95224b-784b-d9df-4738-136756d19d80@example.com>","timestamp":"2022-07-29T14:05:41.825Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuPpNbVBtGLshs0aAAAAEcJ6DaJVHUaUTFwmr.ZT0Cw","timestamp":"2022-07-29T14:05:41.827Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T14:05:41.829Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T14:05:41.857Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T14:05:42.006Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T14:05:42.008Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T14:05:42.019Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 55.285 ms\n-\n","timestamp":"2022-07-29T14:05:46.007Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 13.301 ms\n-\n","timestamp":"2022-07-29T14:05:46.928Z"}
+{"_original":{"email":"","password":"","username":""},"details":[{"context":{"key":"username","label":"username","value":""},"message":"\"Username\" shouldnt be empty","path":["username"],"type":"string.empty"}],"level":"debug","timestamp":"2022-07-29T14:05:47.574Z"}
+{"level":"debug","message":{"email":"","password":"","username":""},"timestamp":"2022-07-29T14:05:47.575Z"}
+{"level":"debug","message":"\"Username\" shouldnt be empty","timestamp":"2022-07-29T14:05:47.578Z"}
+{"field":"username","level":"debug","message":"\"Username\" shouldnt be empty","timestamp":"2022-07-29T14:05:47.580Z"}
+{"level":"info","message":"POST /graphql 200 68 - 81.510 ms\n-\n","timestamp":"2022-07-29T14:05:47.585Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.714 ms\n-\n","timestamp":"2022-07-29T14:05:47.919Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 9.999 ms\n-\n","timestamp":"2022-07-29T14:05:48.925Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":407,"messageId":"<3d7a510b-8fd5-5da3-cbf9-ec99ba792172@example.com>","messageSize":328,"messageTime":339,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuPpfLVBtGLshs0-AAAAEr7p3dItN3cPHVDmyWgvW0g]"},"timestamp":"2022-07-29T14:06:53.339Z"}
+{"level":"debug","message":"<3d7a510b-8fd5-5da3-cbf9-ec99ba792172@example.com>","timestamp":"2022-07-29T14:06:53.342Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuPpfLVBtGLshs0-AAAAEr7p3dItN3cPHVDmyWgvW0g","timestamp":"2022-07-29T14:06:53.344Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T14:06:53.345Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T14:06:53.364Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T14:06:53.608Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T14:06:53.610Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T14:06:53.617Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 64.136 ms\n-\n","timestamp":"2022-07-29T14:07:01.396Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 11.739 ms\n-\n","timestamp":"2022-07-29T14:07:02.306Z"}
+{"_original":{"email":"","password":"","username":""},"details":[{"context":{"key":"username","label":"username","value":""},"message":"\"Username\" shouldnt be empty","path":["username"],"type":"string.empty"}],"level":"debug","timestamp":"2022-07-29T14:07:02.781Z"}
+{"level":"debug","message":{"email":"","password":"","username":""},"timestamp":"2022-07-29T14:07:02.783Z"}
+{"level":"debug","message":"\"Username\" shouldnt be empty","timestamp":"2022-07-29T14:07:02.784Z"}
+{"field":"username","level":"debug","message":"\"Username\" shouldnt be empty","timestamp":"2022-07-29T14:07:02.785Z"}
+{"level":"info","message":"POST /graphql 200 68 - 84.393 ms\n-\n","timestamp":"2022-07-29T14:07:02.790Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.215 ms\n-\n","timestamp":"2022-07-29T14:07:03.301Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 11.025 ms\n-\n","timestamp":"2022-07-29T14:07:04.303Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":450,"messageId":"<a0b74642-f7e3-b649-306e-41ba318c9d01@example.com>","messageSize":328,"messageTime":364,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuPp3LVBtGLshs1WAAAAE2hgclb02EMjYbDSyCPmi40]"},"timestamp":"2022-07-29T14:08:29.161Z"}
+{"level":"debug","message":"<a0b74642-f7e3-b649-306e-41ba318c9d01@example.com>","timestamp":"2022-07-29T14:08:29.166Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuPp3LVBtGLshs1WAAAAE2hgclb02EMjYbDSyCPmi40","timestamp":"2022-07-29T14:08:29.169Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T14:08:29.170Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T14:08:29.188Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T14:08:29.340Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T14:08:29.341Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T14:08:29.358Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 68.095 ms\n-\n","timestamp":"2022-07-29T14:08:43.800Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 23.269 ms\n-\n","timestamp":"2022-07-29T14:08:44.721Z"}
+{"_original":{"email":"","password":"","username":""},"details":[{"context":{"key":"username","label":"username","value":""},"message":"\"Username\" shouldnt be empty","path":["username"],"type":"string.empty"}],"level":"debug","timestamp":"2022-07-29T14:08:45.579Z"}
+{"level":"debug","message":{"email":"","password":"","username":""},"timestamp":"2022-07-29T14:08:45.581Z"}
+{"level":"debug","message":"\"Username\" shouldnt be empty","timestamp":"2022-07-29T14:08:45.582Z"}
+{"field":"username","level":"debug","message":"\"Username\" shouldnt be empty","timestamp":"2022-07-29T14:08:45.584Z"}
+{"level":"info","message":"POST /graphql 200 68 - 89.475 ms\n-\n","timestamp":"2022-07-29T14:08:45.590Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.987 ms\n-\n","timestamp":"2022-07-29T14:08:45.706Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 10.280 ms\n-\n","timestamp":"2022-07-29T14:08:46.707Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.649 ms\n-\n","timestamp":"2022-07-29T14:08:47.705Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":407,"messageId":"<9cb490d2-71f6-004d-c484-c3f3daa74e07@example.com>","messageSize":328,"messageTime":352,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuPrHGTcOrtHgI8xAAAAFP1HaW-ubT06zxz62-2sFE8]"},"timestamp":"2022-07-29T14:13:49.159Z"}
+{"level":"debug","message":"<9cb490d2-71f6-004d-c484-c3f3daa74e07@example.com>","timestamp":"2022-07-29T14:13:49.162Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuPrHGTcOrtHgI8xAAAAFP1HaW-ubT06zxz62-2sFE8","timestamp":"2022-07-29T14:13:49.164Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T14:13:49.165Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T14:13:49.192Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T14:13:49.396Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T14:13:49.398Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T14:13:49.405Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 53.472 ms\n-\n","timestamp":"2022-07-29T14:13:53.081Z"}
+{"level":"debug","message":{"email":"","password":"","username":""},"timestamp":"2022-07-29T14:13:53.877Z"}
+{"field":"username","level":"debug","message":"\"Username\" shouldnt be empty","timestamp":"2022-07-29T14:13:53.878Z"}
+{"level":"info","message":"POST /graphql 200 68 - 90.278 ms\n-\n","timestamp":"2022-07-29T14:13:53.883Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 20.436 ms\n-\n","timestamp":"2022-07-29T14:13:54.011Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 10.972 ms\n-\n","timestamp":"2022-07-29T14:13:55.001Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.696 ms\n-\n","timestamp":"2022-07-29T14:13:55.999Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":417,"messageId":"<e826eb58-8464-9fab-33b9-23cf04b12291@example.com>","messageSize":328,"messageTime":352,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuPrlMVsBJHciKfUAAAAFbKMB6EpMykPTtOkmrppQKg]"},"timestamp":"2022-07-29T14:15:48.842Z"}
+{"level":"debug","message":"<e826eb58-8464-9fab-33b9-23cf04b12291@example.com>","timestamp":"2022-07-29T14:15:48.845Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuPrlMVsBJHciKfUAAAAFbKMB6EpMykPTtOkmrppQKg","timestamp":"2022-07-29T14:15:48.847Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T14:15:48.848Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T14:15:48.870Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T14:15:49.045Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T14:15:49.047Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T14:15:49.063Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 79.327 ms\n-\n","timestamp":"2022-07-29T14:15:49.208Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 45.827 ms\n-\n","timestamp":"2022-07-29T14:15:49.259Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 9.827 ms\n-\n","timestamp":"2022-07-29T14:15:52.073Z"}
+{"level":"debug","message":{"email":"","password":"","username":""},"timestamp":"2022-07-29T14:15:52.773Z"}
+{"field":"username","level":"debug","message":"\"Username\" shouldnt be empty","timestamp":"2022-07-29T14:15:52.775Z"}
+{"level":"info","message":"POST /graphql 200 68 - 89.134 ms\n-\n","timestamp":"2022-07-29T14:15:52.779Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.959 ms\n-\n","timestamp":"2022-07-29T14:15:53.067Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 12.651 ms\n-\n","timestamp":"2022-07-29T14:15:54.076Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.518 ms\n-\n","timestamp":"2022-07-29T14:15:55.070Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":412,"messageId":"<1b72c77b-d117-f6e9-46ec-01208591e396@example.com>","messageSize":328,"messageTime":353,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuPsIGTcOrtHgI9NAAAAFm4CHSshJy2mfziJyk-yd.I]"},"timestamp":"2022-07-29T14:18:09.035Z"}
+{"level":"debug","message":"<1b72c77b-d117-f6e9-46ec-01208591e396@example.com>","timestamp":"2022-07-29T14:18:09.037Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuPsIGTcOrtHgI9NAAAAFm4CHSshJy2mfziJyk-yd.I","timestamp":"2022-07-29T14:18:09.040Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T14:18:09.041Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T14:18:09.064Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T14:18:09.231Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T14:18:09.234Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T14:18:09.255Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 58.184 ms\n-\n","timestamp":"2022-07-29T14:19:18.252Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 27.550 ms\n-\n","timestamp":"2022-07-29T14:19:19.184Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.101 ms\n-\n","timestamp":"2022-07-29T14:19:20.155Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 9.476 ms\n-\n","timestamp":"2022-07-29T14:19:21.159Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 11.537 ms\n-\n","timestamp":"2022-07-29T14:19:22.168Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 10.216 ms\n-\n","timestamp":"2022-07-29T14:19:23.164Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 9.118 ms\n-\n","timestamp":"2022-07-29T14:19:28.277Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 11.183 ms\n-\n","timestamp":"2022-07-29T14:19:29.272Z"}
+{"level":"debug","message":{"email":"","password":"","username":""},"timestamp":"2022-07-29T14:19:29.534Z"}
+{"level":"info","message":"POST /graphql 200 68 - 121.889 ms\n-\n","timestamp":"2022-07-29T14:19:29.560Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.369 ms\n-\n","timestamp":"2022-07-29T14:19:30.279Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.834 ms\n-\n","timestamp":"2022-07-29T14:19:31.269Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":517,"messageId":"<10b96268-8a63-bdef-b152-99337d4d6ee6@example.com>","messageSize":328,"messageTime":372,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuPsqsVsBJHciKfrAAAAFwYF118-uUoR-JH7Lnm8YgM]"},"timestamp":"2022-07-29T14:20:27.477Z"}
+{"level":"debug","message":"<10b96268-8a63-bdef-b152-99337d4d6ee6@example.com>","timestamp":"2022-07-29T14:20:27.480Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuPsqsVsBJHciKfrAAAAFwYF118-uUoR-JH7Lnm8YgM","timestamp":"2022-07-29T14:20:27.482Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T14:20:27.484Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T14:20:27.508Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T14:20:27.710Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T14:20:27.713Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T14:20:27.721Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 58.998 ms\n-\n","timestamp":"2022-07-29T14:20:29.339Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 12.296 ms\n-\n","timestamp":"2022-07-29T14:20:30.256Z"}
+{"level":"debug","message":{"email":"","password":"","username":""},"timestamp":"2022-07-29T14:20:30.576Z"}
+{"level":"info","message":"POST /graphql 200 68 - 78.530 ms\n-\n","timestamp":"2022-07-29T14:20:30.585Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.324 ms\n-\n","timestamp":"2022-07-29T14:20:31.249Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.835 ms\n-\n","timestamp":"2022-07-29T14:20:32.255Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.993 ms\n-\n","timestamp":"2022-07-29T14:20:38.152Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 9.506 ms\n-\n","timestamp":"2022-07-29T14:20:39.157Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.733 ms\n-\n","timestamp":"2022-07-29T14:20:44.818Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.179 ms\n-\n","timestamp":"2022-07-29T14:20:45.803Z"}
+{"level":"debug","message":{"email":"","password":"","username":""},"timestamp":"2022-07-29T14:20:46.860Z"}
+{"level":"info","message":"POST /graphql 200 68 - 9.645 ms\n-\n","timestamp":"2022-07-29T14:20:46.865Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 10.518 ms\n-\n","timestamp":"2022-07-29T14:20:46.891Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.403 ms\n-\n","timestamp":"2022-07-29T14:20:47.802Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.447 ms\n-\n","timestamp":"2022-07-29T14:20:48.812Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":541,"messageId":"<f87b13c5-13f8-27e0-2078-e0a0d6f51ab1@example.com>","messageSize":328,"messageTime":413,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuPs1cVsBJHciKf3AAAAGIIAUnoPU9igyV68dP-uCco]"},"timestamp":"2022-07-29T14:21:09.987Z"}
+{"level":"debug","message":"<f87b13c5-13f8-27e0-2078-e0a0d6f51ab1@example.com>","timestamp":"2022-07-29T14:21:09.989Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuPs1cVsBJHciKf3AAAAGIIAUnoPU9igyV68dP-uCco","timestamp":"2022-07-29T14:21:09.992Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T14:21:09.993Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T14:21:10.021Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T14:21:10.189Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T14:21:10.190Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T14:21:10.201Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 52.959 ms\n-\n","timestamp":"2022-07-29T14:21:19.336Z"}
+{"level":"debug","message":{"email":"","password":"","username":""},"timestamp":"2022-07-29T14:21:20.172Z"}
+{"level":"info","message":"POST /graphql 200 62 - 115.244 ms\n-\n","timestamp":"2022-07-29T14:21:20.196Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 18.848 ms\n-\n","timestamp":"2022-07-29T14:21:20.418Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.449 ms\n-\n","timestamp":"2022-07-29T14:21:21.273Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.146 ms\n-\n","timestamp":"2022-07-29T14:21:22.273Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 9.211 ms\n-\n","timestamp":"2022-07-29T14:21:23.277Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 14.580 ms\n-\n","timestamp":"2022-07-29T14:21:24.282Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":402,"messageId":"<c3a2bf32-6c10-79be-830b-4d069825cd4d@example.com>","messageSize":328,"messageTime":335,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuPs.LVBtGLshs2eAAAAGfmNxS0RO9gfrwBhYoYbaEU]"},"timestamp":"2022-07-29T14:21:48.870Z"}
+{"level":"debug","message":"<c3a2bf32-6c10-79be-830b-4d069825cd4d@example.com>","timestamp":"2022-07-29T14:21:48.872Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuPs.LVBtGLshs2eAAAAGfmNxS0RO9gfrwBhYoYbaEU","timestamp":"2022-07-29T14:21:48.874Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T14:21:48.876Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T14:21:48.898Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T14:21:49.142Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T14:21:49.144Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T14:21:49.209Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 66.890 ms\n-\n","timestamp":"2022-07-29T14:22:37.740Z"}
+{"level":"debug","message":{"email":"","password":"","username":""},"timestamp":"2022-07-29T14:22:38.430Z"}
+{"level":"info","message":"POST /graphql 200 62 - 87.867 ms\n-\n","timestamp":"2022-07-29T14:22:38.441Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 15.915 ms\n-\n","timestamp":"2022-07-29T14:22:38.633Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.954 ms\n-\n","timestamp":"2022-07-29T14:22:39.635Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.727 ms\n-\n","timestamp":"2022-07-29T14:22:40.626Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 10.355 ms\n-\n","timestamp":"2022-07-29T14:22:41.638Z"}
+{"level":"info","message":"POST /graphql 200 24449 - 19.895 ms\n-\n","timestamp":"2022-07-29T14:22:45.659Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 14.548 ms\n-\n","timestamp":"2022-07-29T14:22:45.816Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 11.911 ms\n-\n","timestamp":"2022-07-29T14:22:47.115Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 13.856 ms\n-\n","timestamp":"2022-07-29T14:22:47.823Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 14.745 ms\n-\n","timestamp":"2022-07-29T14:22:48.823Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.814 ms\n-\n","timestamp":"2022-07-29T14:22:49.819Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.383 ms\n-\n","timestamp":"2022-07-29T14:22:50.819Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.145 ms\n-\n","timestamp":"2022-07-29T14:22:51.814Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.345 ms\n-\n","timestamp":"2022-07-29T14:22:52.808Z"}
+{"level":"debug","message":{"email":"","password":"","username":""},"timestamp":"2022-07-29T14:22:53.560Z"}
+{"level":"info","message":"POST /graphql 200 62 - 9.500 ms\n-\n","timestamp":"2022-07-29T14:22:53.565Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.536 ms\n-\n","timestamp":"2022-07-29T14:22:53.879Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.432 ms\n-\n","timestamp":"2022-07-29T14:22:54.814Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.738 ms\n-\n","timestamp":"2022-07-29T14:22:55.823Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.272 ms\n-\n","timestamp":"2022-07-29T14:22:56.813Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.800 ms\n-\n","timestamp":"2022-07-29T14:22:57.811Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.306 ms\n-\n","timestamp":"2022-07-29T14:22:58.815Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.785 ms\n-\n","timestamp":"2022-07-29T14:22:59.820Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.426 ms\n-\n","timestamp":"2022-07-29T14:23:00.814Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.904 ms\n-\n","timestamp":"2022-07-29T14:23:01.807Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.268 ms\n-\n","timestamp":"2022-07-29T14:23:02.817Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.768 ms\n-\n","timestamp":"2022-07-29T14:23:03.828Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.304 ms\n-\n","timestamp":"2022-07-29T14:23:04.814Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.888 ms\n-\n","timestamp":"2022-07-29T14:23:05.805Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.513 ms\n-\n","timestamp":"2022-07-29T14:23:06.808Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.753 ms\n-\n","timestamp":"2022-07-29T14:23:07.820Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.006 ms\n-\n","timestamp":"2022-07-29T14:23:08.818Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.533 ms\n-\n","timestamp":"2022-07-29T14:23:09.807Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.717 ms\n-\n","timestamp":"2022-07-29T14:23:10.844Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.888 ms\n-\n","timestamp":"2022-07-29T14:23:11.811Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.240 ms\n-\n","timestamp":"2022-07-29T14:23:12.809Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.313 ms\n-\n","timestamp":"2022-07-29T14:23:13.809Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.827 ms\n-\n","timestamp":"2022-07-29T14:23:14.806Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":454,"messageId":"<9fff3d41-1947-04f0-44db-f4c48484d54d@example.com>","messageSize":328,"messageTime":340,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuPteMVsBJHciKgAAAAAGq6dYs5bCb6AAMGci2HOKjk]"},"timestamp":"2022-07-29T14:23:52.581Z"}
+{"level":"debug","message":"<9fff3d41-1947-04f0-44db-f4c48484d54d@example.com>","timestamp":"2022-07-29T14:23:52.583Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuPteMVsBJHciKgAAAAAGq6dYs5bCb6AAMGci2HOKjk","timestamp":"2022-07-29T14:23:52.586Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T14:23:52.587Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T14:23:52.608Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T14:23:52.770Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T14:23:52.772Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T14:23:52.783Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 55.209 ms\n-\n","timestamp":"2022-07-29T14:25:51.688Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 28.942 ms\n-\n","timestamp":"2022-07-29T14:25:52.650Z"}
+{"level":"debug","message":{"email":"","password":"","username":""},"timestamp":"2022-07-29T14:25:53.084Z"}
+{"level":"info","message":"POST /graphql 200 68 - 93.065 ms\n-\n","timestamp":"2022-07-29T14:25:53.095Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 16.201 ms\n-\n","timestamp":"2022-07-29T14:25:53.693Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 18.486 ms\n-\n","timestamp":"2022-07-29T14:25:54.645Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.945 ms\n-\n","timestamp":"2022-07-29T14:25:55.625Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.633 ms\n-\n","timestamp":"2022-07-29T14:25:56.629Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 9.877 ms\n-\n","timestamp":"2022-07-29T14:26:20.308Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.263 ms\n-\n","timestamp":"2022-07-29T14:26:21.301Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.862 ms\n-\n","timestamp":"2022-07-29T14:26:22.308Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.092 ms\n-\n","timestamp":"2022-07-29T14:26:23.297Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 10.467 ms\n-\n","timestamp":"2022-07-29T14:26:24.301Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 11.312 ms\n-\n","timestamp":"2022-07-29T14:26:25.302Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.697 ms\n-\n","timestamp":"2022-07-29T14:26:26.307Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.694 ms\n-\n","timestamp":"2022-07-29T14:26:27.298Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.081 ms\n-\n","timestamp":"2022-07-29T14:26:28.298Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.636 ms\n-\n","timestamp":"2022-07-29T14:26:29.300Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.006 ms\n-\n","timestamp":"2022-07-29T14:26:48.108Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":455,"messageId":"<3d62ef14-1c3b-fcc0-e297-046fa0d5d54b@example.com>","messageSize":328,"messageTime":374,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuPuP0R08nemMBMwAAAAG2e6s7CB8hHjtdBJiZKMJBs]"},"timestamp":"2022-07-29T14:27:11.708Z"}
+{"level":"debug","message":"<3d62ef14-1c3b-fcc0-e297-046fa0d5d54b@example.com>","timestamp":"2022-07-29T14:27:11.710Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuPuP0R08nemMBMwAAAAG2e6s7CB8hHjtdBJiZKMJBs","timestamp":"2022-07-29T14:27:11.712Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T14:27:11.713Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T14:27:11.732Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T14:27:11.878Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T14:27:11.879Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T14:27:11.885Z"}
+{"level":"info","message":"GET /graphql 200 - - 4.526 ms\n-\n","timestamp":"2022-07-29T14:27:12.098Z"}
+{"level":"info","message":"POST /graphql 200 24449 - 87.637 ms\n-\n","timestamp":"2022-07-29T14:27:20.842Z"}
+{"level":"info","message":"POST /graphql 200 24449 - 18.733 ms\n-\n","timestamp":"2022-07-29T14:27:21.501Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 18.776 ms\n-\n","timestamp":"2022-07-29T14:27:21.553Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 12.902 ms\n-\n","timestamp":"2022-07-29T14:27:22.549Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 9.607 ms\n-\n","timestamp":"2022-07-29T14:27:23.546Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.668 ms\n-\n","timestamp":"2022-07-29T14:27:24.544Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.999 ms\n-\n","timestamp":"2022-07-29T14:27:25.555Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 10.218 ms\n-\n","timestamp":"2022-07-29T14:27:26.558Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.448 ms\n-\n","timestamp":"2022-07-29T14:27:27.558Z"}
+{"level":"info","message":"POST /graphql 200 24449 - 10.342 ms\n-\n","timestamp":"2022-07-29T14:27:31.151Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 11.259 ms\n-\n","timestamp":"2022-07-29T14:27:31.259Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 12.480 ms\n-\n","timestamp":"2022-07-29T14:27:32.748Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 10.077 ms\n-\n","timestamp":"2022-07-29T14:27:33.272Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 13.817 ms\n-\n","timestamp":"2022-07-29T14:27:34.269Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 14.986 ms\n-\n","timestamp":"2022-07-29T14:27:35.298Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.076 ms\n-\n","timestamp":"2022-07-29T14:27:36.256Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.390 ms\n-\n","timestamp":"2022-07-29T14:27:37.257Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.866 ms\n-\n","timestamp":"2022-07-29T14:27:38.257Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.257 ms\n-\n","timestamp":"2022-07-29T14:27:39.257Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.189 ms\n-\n","timestamp":"2022-07-29T14:27:40.253Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.248 ms\n-\n","timestamp":"2022-07-29T14:27:41.276Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.526 ms\n-\n","timestamp":"2022-07-29T14:27:42.254Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.665 ms\n-\n","timestamp":"2022-07-29T14:27:43.268Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.907 ms\n-\n","timestamp":"2022-07-29T14:27:44.256Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.358 ms\n-\n","timestamp":"2022-07-29T14:27:45.256Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.069 ms\n-\n","timestamp":"2022-07-29T14:27:46.253Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.089 ms\n-\n","timestamp":"2022-07-29T14:27:47.267Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.164 ms\n-\n","timestamp":"2022-07-29T14:27:48.253Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.534 ms\n-\n","timestamp":"2022-07-29T14:27:49.255Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.444 ms\n-\n","timestamp":"2022-07-29T14:27:50.253Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.993 ms\n-\n","timestamp":"2022-07-29T14:27:51.254Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.150 ms\n-\n","timestamp":"2022-07-29T14:27:52.255Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 11.615 ms\n-\n","timestamp":"2022-07-29T14:27:53.289Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.329 ms\n-\n","timestamp":"2022-07-29T14:27:54.254Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.412 ms\n-\n","timestamp":"2022-07-29T14:27:55.255Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.498 ms\n-\n","timestamp":"2022-07-29T14:27:56.254Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.110 ms\n-\n","timestamp":"2022-07-29T14:27:57.252Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.258 ms\n-\n","timestamp":"2022-07-29T14:27:58.258Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.285 ms\n-\n","timestamp":"2022-07-29T14:27:59.261Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.613 ms\n-\n","timestamp":"2022-07-29T14:28:00.256Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.830 ms\n-\n","timestamp":"2022-07-29T14:28:01.259Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 12.334 ms\n-\n","timestamp":"2022-07-29T14:28:02.296Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.572 ms\n-\n","timestamp":"2022-07-29T14:28:03.251Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.696 ms\n-\n","timestamp":"2022-07-29T14:28:04.252Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.399 ms\n-\n","timestamp":"2022-07-29T14:28:05.258Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.918 ms\n-\n","timestamp":"2022-07-29T14:28:06.264Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.076 ms\n-\n","timestamp":"2022-07-29T14:28:07.255Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.660 ms\n-\n","timestamp":"2022-07-29T14:28:08.289Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.801 ms\n-\n","timestamp":"2022-07-29T14:28:09.252Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.523 ms\n-\n","timestamp":"2022-07-29T14:28:10.253Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.504 ms\n-\n","timestamp":"2022-07-29T14:28:11.260Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.383 ms\n-\n","timestamp":"2022-07-29T14:28:12.278Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.460 ms\n-\n","timestamp":"2022-07-29T14:28:13.258Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.130 ms\n-\n","timestamp":"2022-07-29T14:28:14.254Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.092 ms\n-\n","timestamp":"2022-07-29T14:28:15.258Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.429 ms\n-\n","timestamp":"2022-07-29T14:28:16.259Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.277 ms\n-\n","timestamp":"2022-07-29T14:28:17.264Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.659 ms\n-\n","timestamp":"2022-07-29T14:28:18.256Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.604 ms\n-\n","timestamp":"2022-07-29T14:28:19.253Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.716 ms\n-\n","timestamp":"2022-07-29T14:28:20.264Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.178 ms\n-\n","timestamp":"2022-07-29T14:28:21.254Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.076 ms\n-\n","timestamp":"2022-07-29T14:28:22.258Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.110 ms\n-\n","timestamp":"2022-07-29T14:28:23.260Z"}
+{"level":"info","message":"POST /graphql 400 3665 - 51.029 ms\n-\n","timestamp":"2022-07-29T14:28:24.374Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.165 ms\n-\n","timestamp":"2022-07-29T14:28:24.387Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.881 ms\n-\n","timestamp":"2022-07-29T14:28:25.254Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.985 ms\n-\n","timestamp":"2022-07-29T14:28:26.252Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 11.029 ms\n-\n","timestamp":"2022-07-29T14:28:27.258Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.226 ms\n-\n","timestamp":"2022-07-29T14:28:28.255Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.627 ms\n-\n","timestamp":"2022-07-29T14:28:29.254Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.446 ms\n-\n","timestamp":"2022-07-29T14:28:30.256Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.634 ms\n-\n","timestamp":"2022-07-29T14:28:31.253Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.014 ms\n-\n","timestamp":"2022-07-29T14:28:32.253Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.466 ms\n-\n","timestamp":"2022-07-29T14:28:33.263Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.810 ms\n-\n","timestamp":"2022-07-29T14:28:34.264Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.451 ms\n-\n","timestamp":"2022-07-29T14:28:35.266Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.676 ms\n-\n","timestamp":"2022-07-29T14:28:36.253Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.548 ms\n-\n","timestamp":"2022-07-29T14:28:37.266Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.679 ms\n-\n","timestamp":"2022-07-29T14:28:38.267Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.656 ms\n-\n","timestamp":"2022-07-29T14:28:39.261Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.340 ms\n-\n","timestamp":"2022-07-29T14:28:40.256Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.435 ms\n-\n","timestamp":"2022-07-29T14:28:41.265Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.437 ms\n-\n","timestamp":"2022-07-29T14:28:42.256Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.669 ms\n-\n","timestamp":"2022-07-29T14:28:43.253Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.151 ms\n-\n","timestamp":"2022-07-29T14:28:44.260Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.308 ms\n-\n","timestamp":"2022-07-29T14:28:45.255Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.703 ms\n-\n","timestamp":"2022-07-29T14:28:46.257Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.422 ms\n-\n","timestamp":"2022-07-29T14:28:47.257Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.441 ms\n-\n","timestamp":"2022-07-29T14:28:48.251Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.120 ms\n-\n","timestamp":"2022-07-29T14:28:49.253Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.001 ms\n-\n","timestamp":"2022-07-29T14:28:50.251Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.985 ms\n-\n","timestamp":"2022-07-29T14:28:51.255Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.049 ms\n-\n","timestamp":"2022-07-29T14:28:52.260Z"}
+{"level":"debug","message":{"email":"","password":"","username":""},"timestamp":"2022-07-29T14:28:53.050Z"}
+{"level":"info","message":"POST /graphql 200 111 - 71.174 ms\n-\n","timestamp":"2022-07-29T14:28:53.059Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.920 ms\n-\n","timestamp":"2022-07-29T14:28:53.259Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.359 ms\n-\n","timestamp":"2022-07-29T14:28:54.269Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.112 ms\n-\n","timestamp":"2022-07-29T14:28:55.259Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.957 ms\n-\n","timestamp":"2022-07-29T14:28:56.252Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.501 ms\n-\n","timestamp":"2022-07-29T14:28:57.255Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.093 ms\n-\n","timestamp":"2022-07-29T14:28:58.279Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.271 ms\n-\n","timestamp":"2022-07-29T14:28:59.260Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.675 ms\n-\n","timestamp":"2022-07-29T14:29:00.261Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.134 ms\n-\n","timestamp":"2022-07-29T14:29:01.252Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.577 ms\n-\n","timestamp":"2022-07-29T14:29:02.262Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.371 ms\n-\n","timestamp":"2022-07-29T14:29:03.265Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.447 ms\n-\n","timestamp":"2022-07-29T14:29:04.257Z"}
+{"level":"debug","message":{"email":"","password":"","username":"123"},"timestamp":"2022-07-29T14:29:05.151Z"}
+{"level":"info","message":"POST /graphql 200 120 - 8.293 ms\n-\n","timestamp":"2022-07-29T14:29:05.155Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.692 ms\n-\n","timestamp":"2022-07-29T14:29:05.377Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.445 ms\n-\n","timestamp":"2022-07-29T14:29:06.253Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.429 ms\n-\n","timestamp":"2022-07-29T14:29:07.263Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.352 ms\n-\n","timestamp":"2022-07-29T14:29:08.265Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.574 ms\n-\n","timestamp":"2022-07-29T14:29:09.252Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 9.039 ms\n-\n","timestamp":"2022-07-29T14:29:10.260Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.607 ms\n-\n","timestamp":"2022-07-29T14:29:11.253Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.220 ms\n-\n","timestamp":"2022-07-29T14:29:12.260Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.281 ms\n-\n","timestamp":"2022-07-29T14:29:13.255Z"}
+{"level":"debug","message":{"email":"","password":"123","username":"123"},"timestamp":"2022-07-29T14:29:13.500Z"}
+{"level":"info","message":"POST /graphql 200 114 - 7.701 ms\n-\n","timestamp":"2022-07-29T14:29:13.504Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.363 ms\n-\n","timestamp":"2022-07-29T14:29:14.256Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.835 ms\n-\n","timestamp":"2022-07-29T14:29:15.257Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.834 ms\n-\n","timestamp":"2022-07-29T14:29:16.254Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.701 ms\n-\n","timestamp":"2022-07-29T14:29:17.256Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.343 ms\n-\n","timestamp":"2022-07-29T14:29:18.252Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.360 ms\n-\n","timestamp":"2022-07-29T14:29:19.253Z"}
+{"level":"debug","message":{"email":"123","password":"123","username":"123"},"timestamp":"2022-07-29T14:29:19.827Z"}
+{"level":"info","message":"POST /graphql 200 100 - 6.644 ms\n-\n","timestamp":"2022-07-29T14:29:19.831Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.300 ms\n-\n","timestamp":"2022-07-29T14:29:20.252Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.415 ms\n-\n","timestamp":"2022-07-29T14:29:21.253Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.341 ms\n-\n","timestamp":"2022-07-29T14:29:22.259Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.306 ms\n-\n","timestamp":"2022-07-29T14:29:23.260Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.292 ms\n-\n","timestamp":"2022-07-29T14:29:24.263Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.014 ms\n-\n","timestamp":"2022-07-29T14:29:25.258Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.524 ms\n-\n","timestamp":"2022-07-29T14:29:26.254Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.639 ms\n-\n","timestamp":"2022-07-29T14:29:27.258Z"}
+{"level":"debug","message":{"email":"123@hg.com","password":"123","username":"123"},"timestamp":"2022-07-29T14:29:27.513Z"}
+{"level":"info","message":"POST /graphql 200 2354 - 261.210 ms\n-\n","timestamp":"2022-07-29T14:29:27.770Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.502 ms\n-\n","timestamp":"2022-07-29T14:29:28.251Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.084 ms\n-\n","timestamp":"2022-07-29T14:29:29.261Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.397 ms\n-\n","timestamp":"2022-07-29T14:29:30.259Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.315 ms\n-\n","timestamp":"2022-07-29T14:29:31.252Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.994 ms\n-\n","timestamp":"2022-07-29T14:29:32.265Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.727 ms\n-\n","timestamp":"2022-07-29T14:29:33.254Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.505 ms\n-\n","timestamp":"2022-07-29T14:29:34.265Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.309 ms\n-\n","timestamp":"2022-07-29T14:29:35.265Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.768 ms\n-\n","timestamp":"2022-07-29T14:29:36.259Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.108 ms\n-\n","timestamp":"2022-07-29T14:29:37.261Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.822 ms\n-\n","timestamp":"2022-07-29T14:29:38.264Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.686 ms\n-\n","timestamp":"2022-07-29T14:29:39.255Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.038 ms\n-\n","timestamp":"2022-07-29T14:29:40.257Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.538 ms\n-\n","timestamp":"2022-07-29T14:29:41.266Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.019 ms\n-\n","timestamp":"2022-07-29T14:29:42.255Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.095 ms\n-\n","timestamp":"2022-07-29T14:29:43.265Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.133 ms\n-\n","timestamp":"2022-07-29T14:29:44.256Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 9.068 ms\n-\n","timestamp":"2022-07-29T14:29:45.286Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":413,"messageId":"<8c817b9c-8c84-79ee-b115-6662041de70a@example.com>","messageSize":328,"messageTime":332,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuPu-sVsBJHciKhCAAAAHCAhornT9bxsX5be17.Cumk]"},"timestamp":"2022-07-29T14:30:19.356Z"}
+{"level":"debug","message":"<8c817b9c-8c84-79ee-b115-6662041de70a@example.com>","timestamp":"2022-07-29T14:30:19.358Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuPu-sVsBJHciKhCAAAAHCAhornT9bxsX5be17.Cumk","timestamp":"2022-07-29T14:30:19.360Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T14:30:19.362Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T14:30:19.379Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T14:30:19.519Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T14:30:19.520Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T14:30:19.531Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 46.769 ms\n-\n","timestamp":"2022-07-29T14:30:19.599Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 16.695 ms\n-\n","timestamp":"2022-07-29T14:30:19.621Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.450 ms\n-\n","timestamp":"2022-07-29T14:30:19.634Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.820 ms\n-\n","timestamp":"2022-07-29T14:30:20.234Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.177 ms\n-\n","timestamp":"2022-07-29T14:30:21.229Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.076 ms\n-\n","timestamp":"2022-07-29T14:30:22.234Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.073 ms\n-\n","timestamp":"2022-07-29T14:30:23.226Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.985 ms\n-\n","timestamp":"2022-07-29T14:30:24.232Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.222 ms\n-\n","timestamp":"2022-07-29T14:30:25.237Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.969 ms\n-\n","timestamp":"2022-07-29T14:30:26.224Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.553 ms\n-\n","timestamp":"2022-07-29T14:30:27.232Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 9.556 ms\n-\n","timestamp":"2022-07-29T14:30:28.234Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.939 ms\n-\n","timestamp":"2022-07-29T14:30:29.229Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.679 ms\n-\n","timestamp":"2022-07-29T14:30:30.232Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.671 ms\n-\n","timestamp":"2022-07-29T14:30:31.224Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.986 ms\n-\n","timestamp":"2022-07-29T14:30:32.223Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.201 ms\n-\n","timestamp":"2022-07-29T14:30:33.233Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.543 ms\n-\n","timestamp":"2022-07-29T14:30:34.219Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.242 ms\n-\n","timestamp":"2022-07-29T14:30:35.228Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.391 ms\n-\n","timestamp":"2022-07-29T14:30:36.223Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.911 ms\n-\n","timestamp":"2022-07-29T14:30:37.237Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.077 ms\n-\n","timestamp":"2022-07-29T14:30:38.226Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.600 ms\n-\n","timestamp":"2022-07-29T14:30:39.232Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.623 ms\n-\n","timestamp":"2022-07-29T14:30:40.222Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.901 ms\n-\n","timestamp":"2022-07-29T14:30:41.226Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.618 ms\n-\n","timestamp":"2022-07-29T14:30:42.228Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.161 ms\n-\n","timestamp":"2022-07-29T14:30:43.225Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.921 ms\n-\n","timestamp":"2022-07-29T14:30:44.230Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.865 ms\n-\n","timestamp":"2022-07-29T14:30:45.220Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.857 ms\n-\n","timestamp":"2022-07-29T14:30:46.228Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.986 ms\n-\n","timestamp":"2022-07-29T14:30:47.233Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.640 ms\n-\n","timestamp":"2022-07-29T14:30:48.227Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.138 ms\n-\n","timestamp":"2022-07-29T14:30:49.237Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.337 ms\n-\n","timestamp":"2022-07-29T14:30:50.224Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.402 ms\n-\n","timestamp":"2022-07-29T14:30:51.236Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 10.897 ms\n-\n","timestamp":"2022-07-29T14:30:52.230Z"}
+{"level":"info","message":"POST /graphql 400 1897 - 52.326 ms\n-\n","timestamp":"2022-07-29T14:30:53.234Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 11.391 ms\n-\n","timestamp":"2022-07-29T14:30:53.307Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.969 ms\n-\n","timestamp":"2022-07-29T14:30:54.233Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.564 ms\n-\n","timestamp":"2022-07-29T14:30:55.226Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 9.563 ms\n-\n","timestamp":"2022-07-29T14:30:56.234Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 9.806 ms\n-\n","timestamp":"2022-07-29T14:30:57.240Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.586 ms\n-\n","timestamp":"2022-07-29T14:30:58.229Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.965 ms\n-\n","timestamp":"2022-07-29T14:30:59.227Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.840 ms\n-\n","timestamp":"2022-07-29T14:31:00.219Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.076 ms\n-\n","timestamp":"2022-07-29T14:31:01.229Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.620 ms\n-\n","timestamp":"2022-07-29T14:31:02.226Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.891 ms\n-\n","timestamp":"2022-07-29T14:31:03.224Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.964 ms\n-\n","timestamp":"2022-07-29T14:31:04.234Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.475 ms\n-\n","timestamp":"2022-07-29T14:31:05.232Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.953 ms\n-\n","timestamp":"2022-07-29T14:31:06.231Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.085 ms\n-\n","timestamp":"2022-07-29T14:31:07.227Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.601 ms\n-\n","timestamp":"2022-07-29T14:31:08.221Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.482 ms\n-\n","timestamp":"2022-07-29T14:31:09.223Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":401,"messageId":"<cdc7547d-5c12-68f0-c429-49a2e22f056c@example.com>","messageSize":328,"messageTime":330,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuPvT2TcOrtHgI.uAAAAHT98Xmjll4XfXXB8UfHkukU]"},"timestamp":"2022-07-29T14:31:43.802Z"}
+{"level":"debug","message":"<cdc7547d-5c12-68f0-c429-49a2e22f056c@example.com>","timestamp":"2022-07-29T14:31:43.805Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuPvT2TcOrtHgI.uAAAAHT98Xmjll4XfXXB8UfHkukU","timestamp":"2022-07-29T14:31:43.808Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T14:31:43.810Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T14:31:43.841Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T14:31:44.020Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T14:31:44.022Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T14:31:44.034Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 48.447 ms\n-\n","timestamp":"2022-07-29T14:31:44.249Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 16.202 ms\n-\n","timestamp":"2022-07-29T14:31:44.758Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.559 ms\n-\n","timestamp":"2022-07-29T14:31:45.753Z"}
+{"level":"info","message":"POST /graphql 400 1897 - 43.773 ms\n-\n","timestamp":"2022-07-29T14:31:46.429Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.193 ms\n-\n","timestamp":"2022-07-29T14:31:46.746Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.240 ms\n-\n","timestamp":"2022-07-29T14:31:47.750Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.343 ms\n-\n","timestamp":"2022-07-29T14:31:48.745Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.791 ms\n-\n","timestamp":"2022-07-29T14:31:49.747Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.324 ms\n-\n","timestamp":"2022-07-29T14:31:50.748Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.651 ms\n-\n","timestamp":"2022-07-29T14:31:51.749Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.135 ms\n-\n","timestamp":"2022-07-29T14:31:52.758Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.084 ms\n-\n","timestamp":"2022-07-29T14:31:53.747Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 9.495 ms\n-\n","timestamp":"2022-07-29T14:31:54.750Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.826 ms\n-\n","timestamp":"2022-07-29T14:31:55.751Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 9.063 ms\n-\n","timestamp":"2022-07-29T14:37:20.476Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.333 ms\n-\n","timestamp":"2022-07-29T14:37:21.457Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 10.143 ms\n-\n","timestamp":"2022-07-29T14:37:22.454Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 10.303 ms\n-\n","timestamp":"2022-07-29T14:37:23.451Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 22.164 ms\n-\n","timestamp":"2022-07-29T14:37:24.472Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.114 ms\n-\n","timestamp":"2022-07-29T14:37:25.445Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.925 ms\n-\n","timestamp":"2022-07-29T14:37:26.454Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.897 ms\n-\n","timestamp":"2022-07-29T14:37:27.460Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.483 ms\n-\n","timestamp":"2022-07-29T14:37:28.450Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.057 ms\n-\n","timestamp":"2022-07-29T14:37:29.459Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.998 ms\n-\n","timestamp":"2022-07-29T14:37:30.445Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 11.655 ms\n-\n","timestamp":"2022-07-29T14:37:31.496Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":388,"messageId":"<5e58597d-3180-55ea-a00b-b0126f2a85fa@example.com>","messageSize":328,"messageTime":353,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuPw40R08nemMBQHAAAAHvbiZqs4TT2n.L.Bu7WjPZ4]"},"timestamp":"2022-07-29T14:38:28.233Z"}
+{"level":"debug","message":"<5e58597d-3180-55ea-a00b-b0126f2a85fa@example.com>","timestamp":"2022-07-29T14:38:28.240Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuPw40R08nemMBQHAAAAHvbiZqs4TT2n.L.Bu7WjPZ4","timestamp":"2022-07-29T14:38:28.244Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T14:38:28.246Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T14:38:28.274Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T14:38:28.524Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T14:38:28.526Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T14:38:28.532Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 55.974 ms\n-\n","timestamp":"2022-07-29T14:38:29.402Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 11.020 ms\n-\n","timestamp":"2022-07-29T14:38:30.305Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.833 ms\n-\n","timestamp":"2022-07-29T14:38:31.300Z"}
+{"level":"info","message":"POST /graphql 400 1897 - 47.062 ms\n-\n","timestamp":"2022-07-29T14:38:32.367Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 9.544 ms\n-\n","timestamp":"2022-07-29T14:38:32.384Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.429 ms\n-\n","timestamp":"2022-07-29T14:38:33.299Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.555 ms\n-\n","timestamp":"2022-07-29T14:38:34.299Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.911 ms\n-\n","timestamp":"2022-07-29T14:38:42.936Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.838 ms\n-\n","timestamp":"2022-07-29T14:38:43.924Z"}
+{"level":"info","message":"POST /graphql 400 1897 - 5.792 ms\n-\n","timestamp":"2022-07-29T14:38:44.648Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.650 ms\n-\n","timestamp":"2022-07-29T14:38:44.928Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 11.026 ms\n-\n","timestamp":"2022-07-29T14:38:45.929Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.970 ms\n-\n","timestamp":"2022-07-29T14:38:46.937Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":418,"messageId":"<3a4a347e-e151-3153-edcb-5984e31d914f@example.com>","messageSize":328,"messageTime":349,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuP24rVBtGLshs-mAAAAH06z9s7rhTNrxlgRDiH8BmQ]"},"timestamp":"2022-07-29T15:04:03.340Z"}
+{"level":"debug","message":"<3a4a347e-e151-3153-edcb-5984e31d914f@example.com>","timestamp":"2022-07-29T15:04:03.342Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuP24rVBtGLshs-mAAAAH06z9s7rhTNrxlgRDiH8BmQ","timestamp":"2022-07-29T15:04:03.344Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T15:04:03.346Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T15:04:03.368Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T15:04:03.600Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T15:04:03.602Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T15:04:03.611Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 50.425 ms\n-\n","timestamp":"2022-07-29T15:04:28.144Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 30.130 ms\n-\n","timestamp":"2022-07-29T15:04:29.099Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 9.011 ms\n-\n","timestamp":"2022-07-29T15:04:30.071Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":414,"messageId":"<57e38dc0-dabb-f6cf-3604-f283ff6d4559@example.com>","messageSize":328,"messageTime":354,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuP5frVBtGLshtCUAAAAIKY89JDuEHON17XjNmmvV0w]"},"timestamp":"2022-07-29T15:15:10.964Z"}
+{"level":"debug","message":"<57e38dc0-dabb-f6cf-3604-f283ff6d4559@example.com>","timestamp":"2022-07-29T15:15:10.966Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuP5frVBtGLshtCUAAAAIKY89JDuEHON17XjNmmvV0w","timestamp":"2022-07-29T15:15:10.969Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T15:15:10.970Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T15:15:10.994Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T15:15:11.185Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T15:15:11.187Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T15:15:11.201Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 51.606 ms\n-\n","timestamp":"2022-07-29T15:15:36.987Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 23.858 ms\n-\n","timestamp":"2022-07-29T15:15:37.940Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.335 ms\n-\n","timestamp":"2022-07-29T15:15:38.911Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 10.930 ms\n-\n","timestamp":"2022-07-29T15:15:39.915Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 13.379 ms\n-\n","timestamp":"2022-07-29T15:15:40.917Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.232 ms\n-\n","timestamp":"2022-07-29T15:15:41.920Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.475 ms\n-\n","timestamp":"2022-07-29T15:15:42.925Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.203 ms\n-\n","timestamp":"2022-07-29T15:15:43.922Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.179 ms\n-\n","timestamp":"2022-07-29T15:15:44.911Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.702 ms\n-\n","timestamp":"2022-07-29T15:15:45.916Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.916 ms\n-\n","timestamp":"2022-07-29T15:15:46.912Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.024 ms\n-\n","timestamp":"2022-07-29T15:15:47.921Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.280 ms\n-\n","timestamp":"2022-07-29T15:15:48.910Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.622 ms\n-\n","timestamp":"2022-07-29T15:15:49.910Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.869 ms\n-\n","timestamp":"2022-07-29T15:15:50.907Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.650 ms\n-\n","timestamp":"2022-07-29T15:15:51.920Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.863 ms\n-\n","timestamp":"2022-07-29T15:15:52.909Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.941 ms\n-\n","timestamp":"2022-07-29T15:15:53.917Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.678 ms\n-\n","timestamp":"2022-07-29T15:15:54.909Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.478 ms\n-\n","timestamp":"2022-07-29T15:15:55.912Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.976 ms\n-\n","timestamp":"2022-07-29T15:15:56.920Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.131 ms\n-\n","timestamp":"2022-07-29T15:15:57.924Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 9.145 ms\n-\n","timestamp":"2022-07-29T15:15:58.912Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.252 ms\n-\n","timestamp":"2022-07-29T15:15:59.908Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.308 ms\n-\n","timestamp":"2022-07-29T15:16:00.910Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.969 ms\n-\n","timestamp":"2022-07-29T15:16:01.912Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.114 ms\n-\n","timestamp":"2022-07-29T15:16:02.907Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.882 ms\n-\n","timestamp":"2022-07-29T15:16:03.913Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.642 ms\n-\n","timestamp":"2022-07-29T15:16:04.913Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.546 ms\n-\n","timestamp":"2022-07-29T15:16:05.907Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.752 ms\n-\n","timestamp":"2022-07-29T15:16:06.918Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.513 ms\n-\n","timestamp":"2022-07-29T15:16:07.911Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 8.923 ms\n-\n","timestamp":"2022-07-29T15:16:08.922Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.161 ms\n-\n","timestamp":"2022-07-29T15:16:09.907Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.594 ms\n-\n","timestamp":"2022-07-29T15:16:10.924Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.263 ms\n-\n","timestamp":"2022-07-29T15:16:11.910Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.354 ms\n-\n","timestamp":"2022-07-29T15:16:12.907Z"}
+{"level":"debug","message":{"email":"badsha@dollarbull.com","password":"hanif9699","username":"hanif9699"},"timestamp":"2022-07-29T15:16:13.851Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 13.398 ms\n-\n","timestamp":"2022-07-29T15:16:14.023Z"}
+{"level":"info","message":"POST /graphql 200 54 - 331.368 ms\n-\n","timestamp":"2022-07-29T15:16:14.116Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.832 ms\n-\n","timestamp":"2022-07-29T15:16:14.913Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.115 ms\n-\n","timestamp":"2022-07-29T15:16:15.918Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.451 ms\n-\n","timestamp":"2022-07-29T15:16:16.909Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 9.768 ms\n-\n","timestamp":"2022-07-29T15:16:17.915Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.142 ms\n-\n","timestamp":"2022-07-29T15:16:18.908Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.862 ms\n-\n","timestamp":"2022-07-29T15:16:19.908Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.577 ms\n-\n","timestamp":"2022-07-29T15:16:20.959Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.272 ms\n-\n","timestamp":"2022-07-29T15:16:21.910Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.433 ms\n-\n","timestamp":"2022-07-29T15:16:22.920Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 10.997 ms\n-\n","timestamp":"2022-07-29T15:16:23.923Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.051 ms\n-\n","timestamp":"2022-07-29T15:16:24.907Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.416 ms\n-\n","timestamp":"2022-07-29T15:16:25.909Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.717 ms\n-\n","timestamp":"2022-07-29T15:16:26.907Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.080 ms\n-\n","timestamp":"2022-07-29T15:16:27.910Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.996 ms\n-\n","timestamp":"2022-07-29T15:16:28.910Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.987 ms\n-\n","timestamp":"2022-07-29T15:16:29.908Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.382 ms\n-\n","timestamp":"2022-07-29T15:16:30.912Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.283 ms\n-\n","timestamp":"2022-07-29T15:16:31.908Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.268 ms\n-\n","timestamp":"2022-07-29T15:16:32.909Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 10.621 ms\n-\n","timestamp":"2022-07-29T15:16:33.914Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.148 ms\n-\n","timestamp":"2022-07-29T15:16:34.915Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.209 ms\n-\n","timestamp":"2022-07-29T15:16:35.925Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.924 ms\n-\n","timestamp":"2022-07-29T15:16:36.913Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.420 ms\n-\n","timestamp":"2022-07-29T15:16:37.917Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.069 ms\n-\n","timestamp":"2022-07-29T15:16:38.922Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.739 ms\n-\n","timestamp":"2022-07-29T15:16:39.924Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.336 ms\n-\n","timestamp":"2022-07-29T15:16:40.908Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 9.209 ms\n-\n","timestamp":"2022-07-29T15:16:41.913Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 9.726 ms\n-\n","timestamp":"2022-07-29T15:16:42.912Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.437 ms\n-\n","timestamp":"2022-07-29T15:16:43.921Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.146 ms\n-\n","timestamp":"2022-07-29T15:16:44.914Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.425 ms\n-\n","timestamp":"2022-07-29T15:16:45.909Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.142 ms\n-\n","timestamp":"2022-07-29T15:16:46.911Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.684 ms\n-\n","timestamp":"2022-07-29T15:16:47.909Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.908 ms\n-\n","timestamp":"2022-07-29T15:16:48.907Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.446 ms\n-\n","timestamp":"2022-07-29T15:16:49.906Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 7.109 ms\n-\n","timestamp":"2022-07-29T15:16:50.910Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.973 ms\n-\n","timestamp":"2022-07-29T15:16:51.912Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 6.424 ms\n-\n","timestamp":"2022-07-29T15:16:52.909Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.405 ms\n-\n","timestamp":"2022-07-29T15:16:53.907Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.530 ms\n-\n","timestamp":"2022-07-29T15:16:54.906Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.933 ms\n-\n","timestamp":"2022-07-29T15:16:55.909Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.449 ms\n-\n","timestamp":"2022-07-29T15:16:56.906Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.377 ms\n-\n","timestamp":"2022-07-29T15:16:57.919Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.754 ms\n-\n","timestamp":"2022-07-29T15:16:58.909Z"}
+{"level":"info","message":"POST /graphql 400 1907 - 38.759 ms\n-\n","timestamp":"2022-07-29T15:16:59.459Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.723 ms\n-\n","timestamp":"2022-07-29T15:16:59.910Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 9.428 ms\n-\n","timestamp":"2022-07-29T15:17:00.912Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.164 ms\n-\n","timestamp":"2022-07-29T15:17:01.920Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.590 ms\n-\n","timestamp":"2022-07-29T15:17:02.908Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.165 ms\n-\n","timestamp":"2022-07-29T15:17:03.914Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.280 ms\n-\n","timestamp":"2022-07-29T15:17:04.915Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.479 ms\n-\n","timestamp":"2022-07-29T15:17:05.924Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.497 ms\n-\n","timestamp":"2022-07-29T15:17:06.913Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.528 ms\n-\n","timestamp":"2022-07-29T15:17:07.913Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.559 ms\n-\n","timestamp":"2022-07-29T15:17:08.907Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.602 ms\n-\n","timestamp":"2022-07-29T15:17:09.917Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.038 ms\n-\n","timestamp":"2022-07-29T15:17:10.911Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.287 ms\n-\n","timestamp":"2022-07-29T15:17:11.916Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.397 ms\n-\n","timestamp":"2022-07-29T15:17:12.908Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.129 ms\n-\n","timestamp":"2022-07-29T15:17:13.916Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 3.867 ms\n-\n","timestamp":"2022-07-29T15:17:14.923Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 4.199 ms\n-\n","timestamp":"2022-07-29T15:17:15.907Z"}
+{"level":"info","message":"POST /graphql 200 25323 - 5.179 ms\n-\n","timestamp":"2022-07-29T15:17:16.907Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":412,"messageId":"<26f2fe76-2b7b-e1c5-3197-424cd1e2650d@example.com>","messageSize":328,"messageTime":341,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuP6q0R08nemMBZQAAAAIUIsY07hbAkZ8RomcxfSXDE]"},"timestamp":"2022-07-29T15:20:11.738Z"}
+{"level":"debug","message":"<26f2fe76-2b7b-e1c5-3197-424cd1e2650d@example.com>","timestamp":"2022-07-29T15:20:11.740Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuP6q0R08nemMBZQAAAAIUIsY07hbAkZ8RomcxfSXDE","timestamp":"2022-07-29T15:20:11.743Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T15:20:11.744Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T15:20:11.769Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T15:20:11.915Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T15:20:11.916Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T15:20:11.923Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 145.639 ms\n-\n","timestamp":"2022-07-29T15:22:46.030Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 29.676 ms\n-\n","timestamp":"2022-07-29T15:22:46.876Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 8.734 ms\n-\n","timestamp":"2022-07-29T15:22:47.849Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 7.877 ms\n-\n","timestamp":"2022-07-29T15:22:48.847Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 10.652 ms\n-\n","timestamp":"2022-07-29T15:22:49.859Z"}
+{"level":"info","message":"POST /graphql 200 24917 - 18.667 ms\n-\n","timestamp":"2022-07-29T15:22:53.476Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 12.995 ms\n-\n","timestamp":"2022-07-29T15:22:53.575Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 13.410 ms\n-\n","timestamp":"2022-07-29T15:22:55.147Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 16.088 ms\n-\n","timestamp":"2022-07-29T15:22:55.664Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 17.141 ms\n-\n","timestamp":"2022-07-29T15:22:56.586Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 7.076 ms\n-\n","timestamp":"2022-07-29T15:22:57.582Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 7.237 ms\n-\n","timestamp":"2022-07-29T15:22:58.570Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.954 ms\n-\n","timestamp":"2022-07-29T15:22:59.571Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 13.350 ms\n-\n","timestamp":"2022-07-29T15:23:00.588Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 7.345 ms\n-\n","timestamp":"2022-07-29T15:23:01.583Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 13.399 ms\n-\n","timestamp":"2022-07-29T15:23:02.609Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.849 ms\n-\n","timestamp":"2022-07-29T15:23:03.565Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.444 ms\n-\n","timestamp":"2022-07-29T15:23:04.568Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 12.029 ms\n-\n","timestamp":"2022-07-29T15:23:05.574Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 8.289 ms\n-\n","timestamp":"2022-07-29T15:23:06.604Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.625 ms\n-\n","timestamp":"2022-07-29T15:23:07.568Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.092 ms\n-\n","timestamp":"2022-07-29T15:23:08.573Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.869 ms\n-\n","timestamp":"2022-07-29T15:23:09.567Z"}
+{"level":"info","message":"POST /graphql 400 3811 - 44.144 ms\n-\n","timestamp":"2022-07-29T15:23:09.962Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.503 ms\n-\n","timestamp":"2022-07-29T15:23:10.573Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 7.476 ms\n-\n","timestamp":"2022-07-29T15:23:11.583Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 7.134 ms\n-\n","timestamp":"2022-07-29T15:23:12.567Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 3.901 ms\n-\n","timestamp":"2022-07-29T15:23:13.564Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.520 ms\n-\n","timestamp":"2022-07-29T15:23:14.575Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.706 ms\n-\n","timestamp":"2022-07-29T15:23:15.571Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.231 ms\n-\n","timestamp":"2022-07-29T15:23:16.567Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.125 ms\n-\n","timestamp":"2022-07-29T15:23:17.574Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.111 ms\n-\n","timestamp":"2022-07-29T15:23:18.567Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 8.378 ms\n-\n","timestamp":"2022-07-29T15:23:19.569Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.653 ms\n-\n","timestamp":"2022-07-29T15:23:20.567Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 9.873 ms\n-\n","timestamp":"2022-07-29T15:23:21.575Z"}
+{"level":"debug","message":{"password":"hanif9699","usernameOrEmail":"hanif9699"},"timestamp":"2022-07-29T15:23:21.833Z"}
+{"level":"info","message":"POST /graphql 200 51 - 208.201 ms\n-\n","timestamp":"2022-07-29T15:23:21.991Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 13.137 ms\n-\n","timestamp":"2022-07-29T15:23:22.574Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 7.933 ms\n-\n","timestamp":"2022-07-29T15:23:23.568Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 9.519 ms\n-\n","timestamp":"2022-07-29T15:23:24.628Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.444 ms\n-\n","timestamp":"2022-07-29T15:23:25.568Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.096 ms\n-\n","timestamp":"2022-07-29T15:23:26.565Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.164 ms\n-\n","timestamp":"2022-07-29T15:23:27.569Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.094 ms\n-\n","timestamp":"2022-07-29T15:23:28.567Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.610 ms\n-\n","timestamp":"2022-07-29T15:23:29.567Z"}
+{"level":"debug","message":{"password":"","usernameOrEmail":"hanif9699"},"timestamp":"2022-07-29T15:23:30.381Z"}
+{"level":"info","message":"POST /graphql 200 117 - 8.667 ms\n-\n","timestamp":"2022-07-29T15:23:30.384Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 9.125 ms\n-\n","timestamp":"2022-07-29T15:23:30.680Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 3.756 ms\n-\n","timestamp":"2022-07-29T15:23:31.573Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.473 ms\n-\n","timestamp":"2022-07-29T15:23:32.564Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.086 ms\n-\n","timestamp":"2022-07-29T15:23:33.593Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 9.638 ms\n-\n","timestamp":"2022-07-29T15:23:34.572Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.512 ms\n-\n","timestamp":"2022-07-29T15:23:35.572Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.326 ms\n-\n","timestamp":"2022-07-29T15:23:36.580Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.742 ms\n-\n","timestamp":"2022-07-29T15:23:37.566Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":411,"messageId":"<3613d365-69ca-b900-be84-fefedafe7133@example.com>","messageSize":328,"messageTime":341,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuP7o0R08nemMBaRAAAAInBAfRhhX-Fbpf4Imx2qDCE]"},"timestamp":"2022-07-29T15:24:19.709Z"}
+{"level":"debug","message":"<3613d365-69ca-b900-be84-fefedafe7133@example.com>","timestamp":"2022-07-29T15:24:19.712Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuP7o0R08nemMBaRAAAAInBAfRhhX-Fbpf4Imx2qDCE","timestamp":"2022-07-29T15:24:19.715Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T15:24:19.716Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T15:24:19.753Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T15:24:20.076Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T15:24:20.077Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T15:24:20.085Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 58.277 ms\n-\n","timestamp":"2022-07-29T15:24:20.216Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 18.471 ms\n-\n","timestamp":"2022-07-29T15:24:20.245Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 9.026 ms\n-\n","timestamp":"2022-07-29T15:24:20.994Z"}
+{"level":"debug","message":{"password":"","usernameOrEmail":"hanif9699"},"timestamp":"2022-07-29T15:24:21.896Z"}
+{"level":"info","message":"POST /graphql 200 105 - 70.977 ms\n-\n","timestamp":"2022-07-29T15:24:21.902Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 10.702 ms\n-\n","timestamp":"2022-07-29T15:24:22.067Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.626 ms\n-\n","timestamp":"2022-07-29T15:24:23.004Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.978 ms\n-\n","timestamp":"2022-07-29T15:24:23.997Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.100 ms\n-\n","timestamp":"2022-07-29T15:24:24.991Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.907 ms\n-\n","timestamp":"2022-07-29T15:24:26.007Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.921 ms\n-\n","timestamp":"2022-07-29T15:24:27.000Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.693 ms\n-\n","timestamp":"2022-07-29T15:24:27.998Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.853 ms\n-\n","timestamp":"2022-07-29T15:24:29.004Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.958 ms\n-\n","timestamp":"2022-07-29T15:24:29.996Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 12.022 ms\n-\n","timestamp":"2022-07-29T15:24:30.998Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.694 ms\n-\n","timestamp":"2022-07-29T15:24:32.009Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.370 ms\n-\n","timestamp":"2022-07-29T15:24:32.991Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.608 ms\n-\n","timestamp":"2022-07-29T15:24:34.003Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.709 ms\n-\n","timestamp":"2022-07-29T15:24:35.007Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 8.299 ms\n-\n","timestamp":"2022-07-29T15:24:35.997Z"}
+{"level":"debug","message":{"password":"","usernameOrEmail":"123"},"timestamp":"2022-07-29T15:24:36.573Z"}
+{"level":"info","message":"POST /graphql 200 105 - 8.255 ms\n-\n","timestamp":"2022-07-29T15:24:36.577Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.766 ms\n-\n","timestamp":"2022-07-29T15:24:36.991Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.337 ms\n-\n","timestamp":"2022-07-29T15:24:37.999Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.613 ms\n-\n","timestamp":"2022-07-29T15:24:38.992Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.635 ms\n-\n","timestamp":"2022-07-29T15:24:40.002Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.832 ms\n-\n","timestamp":"2022-07-29T15:24:40.991Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.193 ms\n-\n","timestamp":"2022-07-29T15:24:42.001Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 7.752 ms\n-\n","timestamp":"2022-07-29T15:24:43.007Z"}
+{"level":"debug","message":{"password":"123","usernameOrEmail":"123"},"timestamp":"2022-07-29T15:24:43.931Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 7.311 ms\n-\n","timestamp":"2022-07-29T15:24:44.078Z"}
+{"level":"info","message":"POST /graphql 200 104 - 175.346 ms\n-\n","timestamp":"2022-07-29T15:24:44.099Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.205 ms\n-\n","timestamp":"2022-07-29T15:24:45.000Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 9.307 ms\n-\n","timestamp":"2022-07-29T15:24:45.995Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 8.763 ms\n-\n","timestamp":"2022-07-29T15:24:46.994Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 8.528 ms\n-\n","timestamp":"2022-07-29T15:24:48.127Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 18.579 ms\n-\n","timestamp":"2022-07-29T15:24:54.260Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 9.952 ms\n-\n","timestamp":"2022-07-29T15:24:55.205Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.108 ms\n-\n","timestamp":"2022-07-29T15:24:56.210Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.919 ms\n-\n","timestamp":"2022-07-29T15:24:57.205Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 11.103 ms\n-\n","timestamp":"2022-07-29T15:24:58.207Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 16.290 ms\n-\n","timestamp":"2022-07-29T15:25:06.432Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.167 ms\n-\n","timestamp":"2022-07-29T15:25:07.423Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.774 ms\n-\n","timestamp":"2022-07-29T15:25:08.415Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.349 ms\n-\n","timestamp":"2022-07-29T15:25:09.423Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.181 ms\n-\n","timestamp":"2022-07-29T15:25:10.414Z"}
+{"level":"debug","message":{"password":"123","usernameOrEmail":"1"},"timestamp":"2022-07-29T15:25:11.179Z"}
+{"level":"error","timestamp":"2022-07-29T15:25:11.180Z"}
+{"level":"info","message":"POST /graphql 200 104 - 117.016 ms\n-\n","timestamp":"2022-07-29T15:25:11.292Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 10.688 ms\n-\n","timestamp":"2022-07-29T15:25:11.420Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.386 ms\n-\n","timestamp":"2022-07-29T15:25:12.418Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.417 ms\n-\n","timestamp":"2022-07-29T15:25:13.419Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.172 ms\n-\n","timestamp":"2022-07-29T15:25:14.429Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 7.612 ms\n-\n","timestamp":"2022-07-29T15:26:06.063Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":419,"messageId":"<28bf45b2-8e48-51a1-5e1d-d66e5a27e248@example.com>","messageSize":328,"messageTime":345,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuP8MsVsBJHciKtTAAAAI8nKB.aOurmrTNnd95frFSA]"},"timestamp":"2022-07-29T15:26:43.347Z"}
+{"level":"debug","message":"<28bf45b2-8e48-51a1-5e1d-d66e5a27e248@example.com>","timestamp":"2022-07-29T15:26:43.349Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuP8MsVsBJHciKtTAAAAI8nKB.aOurmrTNnd95frFSA","timestamp":"2022-07-29T15:26:43.351Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T15:26:43.352Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T15:26:43.371Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T15:26:43.573Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T15:26:43.574Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T15:26:43.583Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 60.509 ms\n-\n","timestamp":"2022-07-29T15:26:43.838Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 19.781 ms\n-\n","timestamp":"2022-07-29T15:26:43.864Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 21.377 ms\n-\n","timestamp":"2022-07-29T15:26:43.892Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.897 ms\n-\n","timestamp":"2022-07-29T15:26:44.109Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 16.785 ms\n-\n","timestamp":"2022-07-29T15:26:44.943Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.821 ms\n-\n","timestamp":"2022-07-29T15:26:45.938Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 11.835 ms\n-\n","timestamp":"2022-07-29T15:26:46.942Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.793 ms\n-\n","timestamp":"2022-07-29T15:26:47.945Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.132 ms\n-\n","timestamp":"2022-07-29T15:26:48.935Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.912 ms\n-\n","timestamp":"2022-07-29T15:26:49.931Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 14.576 ms\n-\n","timestamp":"2022-07-29T15:26:53.486Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 12.267 ms\n-\n","timestamp":"2022-07-29T15:26:54.480Z"}
+{"level":"debug","message":{"password":"123","usernameOrEmail":"1"},"timestamp":"2022-07-29T15:26:54.790Z"}
+{"level":"error","timestamp":"2022-07-29T15:26:54.791Z"}
+{"level":"info","message":"POST /graphql 200 104 - 191.753 ms\n-\n","timestamp":"2022-07-29T15:26:54.906Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 12.052 ms\n-\n","timestamp":"2022-07-29T15:26:55.488Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 8.017 ms\n-\n","timestamp":"2022-07-29T15:26:56.472Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 8.894 ms\n-\n","timestamp":"2022-07-29T15:26:57.474Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 8.008 ms\n-\n","timestamp":"2022-07-29T15:26:58.486Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 10.307 ms\n-\n","timestamp":"2022-07-29T15:26:59.475Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.320 ms\n-\n","timestamp":"2022-07-29T15:27:00.474Z"}
+{"level":"debug","message":{"password":"123","usernameOrEmail":""},"timestamp":"2022-07-29T15:27:00.896Z"}
+{"level":"error","timestamp":"2022-07-29T15:27:00.899Z"}
+{"level":"info","message":"POST /graphql 200 104 - 41.975 ms\n-\n","timestamp":"2022-07-29T15:27:00.932Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 12.879 ms\n-\n","timestamp":"2022-07-29T15:27:01.478Z"}
+{"level":"debug","message":{"password":"123","usernameOrEmail":""},"timestamp":"2022-07-29T15:27:02.205Z"}
+{"level":"error","timestamp":"2022-07-29T15:27:02.206Z"}
+{"level":"info","message":"POST /graphql 200 104 - 25.184 ms\n-\n","timestamp":"2022-07-29T15:27:02.226Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 12.985 ms\n-\n","timestamp":"2022-07-29T15:27:02.491Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 8.394 ms\n-\n","timestamp":"2022-07-29T15:27:03.473Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 7.793 ms\n-\n","timestamp":"2022-07-29T15:27:04.481Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.265 ms\n-\n","timestamp":"2022-07-29T15:27:17.641Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 9.705 ms\n-\n","timestamp":"2022-07-29T15:27:18.640Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 7.963 ms\n-\n","timestamp":"2022-07-29T15:27:19.652Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.808 ms\n-\n","timestamp":"2022-07-29T15:27:20.636Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 7.904 ms\n-\n","timestamp":"2022-07-29T15:27:21.640Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.439 ms\n-\n","timestamp":"2022-07-29T15:27:22.643Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 13.090 ms\n-\n","timestamp":"2022-07-29T15:27:23.646Z"}
+{"level":"debug","message":{"password":"123","usernameOrEmail":""},"timestamp":"2022-07-29T15:27:24.051Z"}
+{"level":"error","timestamp":"2022-07-29T15:27:24.052Z"}
+{"level":"info","message":"POST /graphql 200 104 - 185.012 ms\n-\n","timestamp":"2022-07-29T15:27:24.232Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.329 ms\n-\n","timestamp":"2022-07-29T15:27:24.672Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.700 ms\n-\n","timestamp":"2022-07-29T15:27:25.648Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 11.588 ms\n-\n","timestamp":"2022-07-29T15:27:26.644Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.522 ms\n-\n","timestamp":"2022-07-29T15:27:27.638Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.731 ms\n-\n","timestamp":"2022-07-29T15:27:28.637Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 11.912 ms\n-\n","timestamp":"2022-07-29T15:27:29.650Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":415,"messageId":"<0ca17eae-5941-52c1-b920-03479199e6ef@example.com>","messageSize":328,"messageTime":338,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuP8lER08nemMBapAAAAJCqOa7WIgyNlp3FYzjS06pM]"},"timestamp":"2022-07-29T15:28:20.607Z"}
+{"level":"debug","message":"<0ca17eae-5941-52c1-b920-03479199e6ef@example.com>","timestamp":"2022-07-29T15:28:20.610Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuP8lER08nemMBapAAAAJCqOa7WIgyNlp3FYzjS06pM","timestamp":"2022-07-29T15:28:20.612Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T15:28:20.613Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T15:28:20.632Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T15:28:20.782Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T15:28:20.784Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T15:28:20.789Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 53.810 ms\n-\n","timestamp":"2022-07-29T15:28:20.877Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 27.464 ms\n-\n","timestamp":"2022-07-29T15:28:20.910Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 17.510 ms\n-\n","timestamp":"2022-07-29T15:28:20.936Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 11.780 ms\n-\n","timestamp":"2022-07-29T15:28:20.953Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 10.223 ms\n-\n","timestamp":"2022-07-29T15:28:21.811Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.881 ms\n-\n","timestamp":"2022-07-29T15:28:22.817Z"}
+{"level":"debug","message":{"password":"123","usernameOrEmail":""},"timestamp":"2022-07-29T15:28:23.198Z"}
+{"level":"info","message":"POST /graphql 200 144 - 74.352 ms\n-\n","timestamp":"2022-07-29T15:28:23.205Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 10.259 ms\n-\n","timestamp":"2022-07-29T15:28:23.815Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.429 ms\n-\n","timestamp":"2022-07-29T15:28:24.815Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.389 ms\n-\n","timestamp":"2022-07-29T15:28:25.805Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 8.611 ms\n-\n","timestamp":"2022-07-29T15:28:26.819Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.855 ms\n-\n","timestamp":"2022-07-29T15:28:27.807Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.345 ms\n-\n","timestamp":"2022-07-29T15:28:28.814Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 8.560 ms\n-\n","timestamp":"2022-07-29T15:28:29.822Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 7.246 ms\n-\n","timestamp":"2022-07-29T15:28:30.816Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.167 ms\n-\n","timestamp":"2022-07-29T15:28:31.809Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.701 ms\n-\n","timestamp":"2022-07-29T15:28:32.814Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 7.201 ms\n-\n","timestamp":"2022-07-29T15:28:33.824Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.530 ms\n-\n","timestamp":"2022-07-29T15:28:34.808Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.737 ms\n-\n","timestamp":"2022-07-29T15:28:35.818Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.931 ms\n-\n","timestamp":"2022-07-29T15:28:36.810Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.007 ms\n-\n","timestamp":"2022-07-29T15:28:37.814Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 8.590 ms\n-\n","timestamp":"2022-07-29T15:28:38.830Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 12.068 ms\n-\n","timestamp":"2022-07-29T15:29:01.302Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.572 ms\n-\n","timestamp":"2022-07-29T15:29:02.292Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 8.772 ms\n-\n","timestamp":"2022-07-29T15:29:03.297Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.355 ms\n-\n","timestamp":"2022-07-29T15:29:04.301Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.674 ms\n-\n","timestamp":"2022-07-29T15:29:05.307Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.636 ms\n-\n","timestamp":"2022-07-29T15:29:06.292Z"}
+{"level":"debug","message":{"password":"123","usernameOrEmail":"1"},"timestamp":"2022-07-29T15:29:06.560Z"}
+{"level":"info","message":"POST /graphql 200 144 - 8.179 ms\n-\n","timestamp":"2022-07-29T15:29:06.563Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.923 ms\n-\n","timestamp":"2022-07-29T15:29:07.293Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.185 ms\n-\n","timestamp":"2022-07-29T15:29:08.302Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.769 ms\n-\n","timestamp":"2022-07-29T15:29:09.307Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 8.240 ms\n-\n","timestamp":"2022-07-29T15:29:10.300Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.988 ms\n-\n","timestamp":"2022-07-29T15:29:11.303Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.189 ms\n-\n","timestamp":"2022-07-29T15:29:12.298Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.780 ms\n-\n","timestamp":"2022-07-29T15:29:13.302Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.020 ms\n-\n","timestamp":"2022-07-29T15:29:14.291Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.987 ms\n-\n","timestamp":"2022-07-29T15:29:15.305Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.229 ms\n-\n","timestamp":"2022-07-29T15:29:16.299Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.723 ms\n-\n","timestamp":"2022-07-29T15:29:17.290Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.964 ms\n-\n","timestamp":"2022-07-29T15:29:18.299Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 7.340 ms\n-\n","timestamp":"2022-07-29T15:29:19.294Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 7.544 ms\n-\n","timestamp":"2022-07-29T15:29:52.658Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.822 ms\n-\n","timestamp":"2022-07-29T15:30:48.969Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 27.182 ms\n-\n","timestamp":"2022-07-29T15:31:11.396Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 7.836 ms\n-\n","timestamp":"2022-07-29T15:31:12.368Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 7.561 ms\n-\n","timestamp":"2022-07-29T15:31:13.366Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 13.006 ms\n-\n","timestamp":"2022-07-29T15:50:06.249Z"}
+{"level":"debug","message":{"accepted":["hanifbadsha309@gmail.com"],"envelope":{"from":"foo@example.com","to":["hanifbadsha309@gmail.com"]},"envelopeTime":417,"messageId":"<301f87ca-57b3-23fa-6d48-a33ff90078e3@example.com>","messageSize":328,"messageTime":339,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=YuFPF5.i.1zoNmB0YuQCGUR08nemMBfhAAAAJZ3ZmSIalgredqfBZpy7xBQ]"},"timestamp":"2022-07-29T15:51:53.547Z"}
+{"level":"debug","message":"<301f87ca-57b3-23fa-6d48-a33ff90078e3@example.com>","timestamp":"2022-07-29T15:51:53.550Z"}
+{"level":"debug","message":"https://ethereal.email/message/YuFPF5.i.1zoNmB0YuQCGUR08nemMBfhAAAAJZ3ZmSIalgredqfBZpy7xBQ","timestamp":"2022-07-29T15:51:53.553Z"}
+{"level":"debug","message":"--- Insert post into db ---","timestamp":"2022-07-29T15:51:53.554Z"}
+{"level":"debug","message":[{"createdAt":"2022-07-04T07:16:38.315Z","id":1,"title":"First Post !!!","updatedAt":"2022-07-04T07:16:38.315Z"},{"createdAt":"2022-07-04T09:16:17.579Z","id":2,"title":"First Post !!!","updatedAt":"2022-07-04T09:16:17.579Z"},{"createdAt":"2022-07-04T11:12:00.434Z","id":3,"title":"Post from debugger","updatedAt":"2022-07-04T11:12:00.434Z"}],"timestamp":"2022-07-29T15:51:53.580Z"}
+{"level":"debug","message":"Server Started at Port 8080","timestamp":"2022-07-29T15:51:53.765Z"}
+{"level":"debug","message":"Server running on 7000 port","timestamp":"2022-07-29T15:51:53.766Z"}
+{"level":"debug","message":"Connected to redis","timestamp":"2022-07-29T15:51:53.773Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 72.179 ms\n-\n","timestamp":"2022-07-29T15:51:58.073Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 10.218 ms\n-\n","timestamp":"2022-07-29T15:51:58.987Z"}
+{"level":"debug","message":{"password":"123","usernameOrEmail":"1"},"timestamp":"2022-07-29T15:51:59.363Z"}
+{"level":"info","message":"POST /graphql 200 110 - 75.329 ms\n-\n","timestamp":"2022-07-29T15:51:59.367Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 7.014 ms\n-\n","timestamp":"2022-07-29T15:51:59.992Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 13.827 ms\n-\n","timestamp":"2022-07-29T15:52:00.989Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 7.331 ms\n-\n","timestamp":"2022-07-29T15:52:01.982Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.138 ms\n-\n","timestamp":"2022-07-29T15:52:02.986Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.214 ms\n-\n","timestamp":"2022-07-29T15:52:03.988Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.450 ms\n-\n","timestamp":"2022-07-29T15:52:04.980Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.007 ms\n-\n","timestamp":"2022-07-29T15:52:05.993Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.681 ms\n-\n","timestamp":"2022-07-29T15:52:06.978Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 11.750 ms\n-\n","timestamp":"2022-07-29T15:52:08.006Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.696 ms\n-\n","timestamp":"2022-07-29T15:52:08.981Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 8.863 ms\n-\n","timestamp":"2022-07-29T15:52:09.984Z"}
+{"level":"debug","message":{"password":"123","usernameOrEmail":"hanif9699"},"timestamp":"2022-07-29T15:52:10.135Z"}
+{"level":"info","message":"POST /graphql 200 97 - 165.990 ms\n-\n","timestamp":"2022-07-29T15:52:10.296Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.868 ms\n-\n","timestamp":"2022-07-29T15:52:10.985Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.110 ms\n-\n","timestamp":"2022-07-29T15:52:11.995Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.141 ms\n-\n","timestamp":"2022-07-29T15:52:12.979Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.521 ms\n-\n","timestamp":"2022-07-29T15:52:13.978Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 9.627 ms\n-\n","timestamp":"2022-07-29T15:52:17.525Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.686 ms\n-\n","timestamp":"2022-07-29T15:52:18.509Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 7.811 ms\n-\n","timestamp":"2022-07-29T15:52:19.523Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 8.607 ms\n-\n","timestamp":"2022-07-29T15:52:20.513Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.490 ms\n-\n","timestamp":"2022-07-29T15:52:21.514Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.842 ms\n-\n","timestamp":"2022-07-29T15:52:22.525Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 9.974 ms\n-\n","timestamp":"2022-07-29T15:52:23.554Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 8.012 ms\n-\n","timestamp":"2022-07-29T15:52:24.526Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.290 ms\n-\n","timestamp":"2022-07-29T15:52:25.511Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 11.140 ms\n-\n","timestamp":"2022-07-29T15:52:26.515Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.741 ms\n-\n","timestamp":"2022-07-29T15:52:27.522Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.417 ms\n-\n","timestamp":"2022-07-29T15:52:28.512Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.801 ms\n-\n","timestamp":"2022-07-29T15:52:29.515Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 5.975 ms\n-\n","timestamp":"2022-07-29T15:52:30.511Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 10.149 ms\n-\n","timestamp":"2022-07-29T15:52:31.515Z"}
+{"level":"debug","message":{"password":"123","usernameOrEmail":"badsha@dollarbull.com"},"timestamp":"2022-07-29T15:52:31.760Z"}
+{"level":"info","message":"POST /graphql 200 104 - 137.120 ms\n-\n","timestamp":"2022-07-29T15:52:31.891Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.611 ms\n-\n","timestamp":"2022-07-29T15:52:32.513Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.635 ms\n-\n","timestamp":"2022-07-29T15:52:33.510Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 7.925 ms\n-\n","timestamp":"2022-07-29T15:52:34.536Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 4.200 ms\n-\n","timestamp":"2022-07-29T15:52:35.509Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 6.237 ms\n-\n","timestamp":"2022-07-29T15:52:36.519Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 3.868 ms\n-\n","timestamp":"2022-07-29T15:52:37.513Z"}
+{"level":"info","message":"POST /graphql 200 25883 - 13.028 ms\n-\n","timestamp":"2022-07-29T15:53:34.155Z"}

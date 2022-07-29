@@ -1,3 +1,4 @@
+global.__basedir = __dirname;
 import "reflect-metadata";
 import { AppDataSource } from "./datasoure";
 import { Post } from "./entities/Post";
@@ -20,7 +21,7 @@ declare global {
     var __basedir: string;
 }
 
-global.__basedir = __dirname;
+
 
 let RedisStore = connectRedis(session)
 

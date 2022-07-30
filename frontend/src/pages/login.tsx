@@ -1,6 +1,7 @@
 import { Box, Button } from '@chakra-ui/react'
 import { Form, Formik } from 'formik'
 import { withUrqlClient } from 'next-urql'
+import Link from 'next/link'
 import { useRouter } from 'next/router'
 import React from 'react'
 import { useMutation } from 'urql'
@@ -36,6 +37,7 @@ const Login: React.FC<{}> = () => {
                             <Box mt={4}>
                                 <InputField name="password" label="Password" placeholder='Enter Password' type={'password'} />
                             </Box>
+                            <Link href={'/forget-password'} passHref><a>Forget Password</a></Link>
                             <Button type="submit" textAlign={'center'} mt={4} isLoading={isSubmitting}>Login</Button>
                         </Form>
                     }

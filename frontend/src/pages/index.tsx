@@ -10,9 +10,8 @@ import { Box } from '@chakra-ui/react'
 
 const Index = () => {
   const [{ data }] = usePostQuery()
-  console.log(data)
   return <Box>
-    {/* {isServer() ? null : <Navbar />} */}
+    {isServer() ? null : <Navbar />}
     <div>
       Hello World
     </div>

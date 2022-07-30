@@ -20,6 +20,7 @@
     "@types/morgan": "^1.9.3",
     "@types/node": "^18.0.0",
     "@types/redis": "^4.0.11",
+    "@types/uuid": "^8.3.4",
     "eslint": "^8.20.0",
     "eslint-config-leapfrog": "^3.0.0",
     "eslint-config-prettier": "^8.5.0",
@@ -48,6 +49,7 @@
     "reflect-metadata": "^0.1.13",
     "type-graphql": "^1.1.1",
     "typeorm": "^0.3.7",
+    "uuid": "^8.3.2",
     "winston": "^3.8.1",
     "winston-daily-rotate-file": "^4.7.1"
   },

@@ -2,10 +2,12 @@ import { User } from '../entities/User';
 import { MyContext } from 'src/types';
 import { Arg, Ctx, Field, InputType, Mutation, ObjectType, Query, Resolver } from 'type-graphql';
 import argon2 from 'argon2';
-import { cookie_name } from '../constants';
+import { cookie_name, FORGET_PASSWORD_PREFIX } from '../constants';
 import Joi from 'joi';
 import logger from '../utils/logger';
 import { formatErr } from '../utils/formatErr';
+import { v4 } from 'uuid';
+import { sendEmail } from '../utils/sendEmail';
 
 @InputType()
 class UserInput {
@@ -37,11 +39,28 @@ class LoginResponse {
 }
 
 @ObjectType()
+class ForgetPasswordResponse {
+  @Field({ nullable: true })
+  send?: Boolean;
+  @Field(() => [FieldError], { nullable: true })
+  errors?: FieldError[];
+}
+
+@ObjectType()
 export class FieldError {
   @Field()
   field: string;
   @Field()
   message: string;
+}
+
+@InputType()
+class ChangePasswordInput {
+  @Field()
+  token: string;
+
+  @Field()
+  password: string;
 }
 
 @Resolver()
@@ -155,7 +174,7 @@ export class UserResolver {
       return {
         errors: [
           {
-            field: 'username',
+            field: 'usernameOrEmail',
             message: 'that username doesnt exist'
           }
         ]
@@ -194,5 +213,95 @@ export class UserResolver {
         resolve(true);
       });
     });
+  }
+  @Mutation(() => ForgetPasswordResponse)
+  async forgotPassword(
+    @Arg('email') email: string,
+    @Ctx() { connection, redis }: MyContext
+  ): Promise<ForgetPasswordResponse> {
+    const schema = Joi.string().email({ minDomainSegments: 2 }).required();
+    const { error } = schema.validate(email);
+    if (error) {
+      let formattedError = formatErr(error);
+      //   logger.debug(formattedError);
+      return {
+        errors: [
+          {
+            field: formattedError.field,
+            message: formattedError.message
+          }
+        ]
+      };
+    }
+    let userRepository = await connection.getRepository(User);
+    let userFound = await userRepository.findOne({ where: { email } });
+    if (!userFound) {
+      return {
+        send: true
+      };
+    }
+    const id = v4();
+    await redis.v4.set(FORGET_PASSWORD_PREFIX + id, JSON.stringify(userFound.id), {
+      EX: 60 * 60 * 24
+    });
+    let html = `<a href="http://localhost:3000/change-password/${id}">Reset Password</a>`;
+    await sendEmail(email, html);
+    return {
+      send: true
+    };
+  }
+  @Mutation(() => LoginResponse)
+  async changePassword(
+    @Arg('option') options: ChangePasswordInput,
+    @Ctx() { connection, redis, req }: MyContext
+  ): Promise<LoginResponse> {
+    let userRepository = await connection.getRepository(User);
+    const schema = Joi.object({
+      token: Joi.string().required(),
+      password: Joi.string().min(3).max(20)
+    });
+    const { error } = schema.validate(options);
+    if (error) {
+      let formattedError = formatErr(error);
+      //   logger.debug(formattedError);
+      return {
+        errors: [
+          {
+            field: formattedError.field,
+            message: formattedError.message
+          }
+        ]
+      };
+    }
+    logger.debug(FORGET_PASSWORD_PREFIX + options.token);
+    const userId = await redis.v4.get(FORGET_PASSWORD_PREFIX + options.token);
+    if (!userId) {
+      return {
+        errors: [
+          {
+            field: 'token',
+            message: 'Token Expired !!!'
+          }
+        ]
+      };
+    }
+    const user = await userRepository.findOne({ where: { id: parseInt(userId) } });
+    if (!user) {
+      return {
+        errors: [
+          {
+            field: 'token',
+            message: 'Token Invalid !!!'
+          }
+        ]
+      };
+    }
+    let hashedPassword = await argon2.hash(options.password);
+    user.password = hashedPassword;
+    await userRepository.save(user);
+    req.session.userId = user.id;
+    return {
+      user
+    };
   }
 }

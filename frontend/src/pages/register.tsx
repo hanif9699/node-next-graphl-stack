@@ -21,14 +21,14 @@ const Register: React.FC<registerProps> = () => {
     const [{ }, register] = useRegisterMutation()
     return (
         <Wrapper variant='small'>
-            <Formik initialValues={{ username: '', password: '' }}
+            <Formik initialValues={{ username: '', password: '', email: '' }}
                 onSubmit={async (values, { setErrors }) => {
                     // console.log(values)
                     // return register(values)
-                    const response = await register(values)
+                    const response = await register({ options: values })
                     if (response.data?.register.errors) {
                         setErrors(toErrorMap(response.data.register.errors))
-                    }else if(response.data?.register.user){
+                    } else if (response.data?.register.user) {
                         router.push('/')
                     }
                 }}>{
@@ -36,6 +36,9 @@ const Register: React.FC<registerProps> = () => {
                         return <Form>
                             <Box mt={4}>
                                 <InputField name="username" label="Username" placeholder='Enter Username' />
+                            </Box>
+                            <Box mt={4}>
+                                <InputField name="email" label="Email" placeholder='Enter Email' type={'email'} />
                             </Box>
                             <Box mt={4}>
                                 <InputField name="password" label="Password" placeholder='Enter Password' type={'password'} />

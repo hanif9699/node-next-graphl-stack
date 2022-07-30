@@ -14,6 +14,11 @@
             "date": 1659094728024,
             "name": "logs\\2022-07-29-debug.log",
             "hash": "dd8bd72746f9298b94f159dd70560c86b165ead0a30ccde776bdc3351eb0a9f0"
+        },
+        {
+            "date": 1659181522288,
+            "name": "logs\\2022-07-30-debug.log",
+            "hash": "6fe0a51a60ba83474235219e302faf8bebef83fd710da7de0bf22ab714f6aac3"
         }
     ],
     "hashType": "sha256"

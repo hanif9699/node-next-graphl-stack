@@ -17,7 +17,7 @@ const Login: React.FC<{}> = () => {
     const [{ }, login] = useLoginMutation()
     return (
         <Wrapper variant='small'>
-            <Formik initialValues={{ username: '', password: '' }}
+            <Formik initialValues={{ usernameOrEmail: '', password: '' }}
                 onSubmit={async (values, { setErrors }) => {
                     // console.log(values)
                     // return register(values)
@@ -31,7 +31,7 @@ const Login: React.FC<{}> = () => {
                     ({ isSubmitting }) => {
                         return <Form>
                             <Box mt={4}>
-                                <InputField name="username" label="Username" placeholder='Enter Username' />
+                                <InputField name="usernameOrEmail" label="Username" placeholder='Enter Username' />
                             </Box>
                             <Box mt={4}>
                                 <InputField name="password" label="Password" placeholder='Enter Password' type={'password'} />
